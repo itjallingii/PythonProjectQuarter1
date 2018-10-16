@@ -1,3 +1,8 @@
+# Research questions
+Introductie op ondervoeding in landen gelegen in de sub-sahara.  
+Verschillen van honger aan de hand van het gebruik van landbouwgrond, innovaties en voedselproductie.
+Aan de hand van deze gegevens een schatting maken voor al deze veriabelen, maar vooral het effect op de ondervoeding/voedseltekort
+
 # PythonProjectQuarter1
 SUBJECT
 Rob & Ivar decided to look into target 2 - Zero Hunger
