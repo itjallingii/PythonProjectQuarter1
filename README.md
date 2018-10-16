@@ -1,7 +1,10 @@
 # Research questions
-Introductie op ondervoeding in landen gelegen in de sub-sahara.  
-Verschillen van honger aan de hand van het gebruik van landbouwgrond, innovaties en voedselproductie.
-Aan de hand van deze gegevens een schatting maken voor al deze veriabelen, maar vooral het effect op de ondervoeding/voedseltekort
+Opbouw report
+- Introductie van onderzoeksvraag: 
+optie 1: To what extend is the way food is produced related to hunger in sub-saharan africa and how will this trend develop until 2030? 
+optie 2: What indicators strongly relate to the production of food in sub-sahara africa and and how will the overall trend in hunger in SS africa look like?
+- Uitwerken onderzoeksvraag aan de hand van analyseren data & graphs
+- Schatten van toekomst met regressie analyse / trend analyses. Aan de hand van deze gegevens een schatting maken voor al deze veriabelen, maar vooral het effect op de ondervoeding/voedseltekort
 
 # PythonProjectQuarter1
 SUBJECT
