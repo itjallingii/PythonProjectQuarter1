@@ -15,12 +15,11 @@ Hoofdstuk 2: Data preperation
 
 Hoofdstuk 3: uitwerken onderzoeksvragen
 
+- Uitwerken onderzoeksvraag aan de hand van analyseren data & graphs
+- Schatten van toekomst met regressie analyse / trend analyses. Aan de hand van deze gegevens een schatting maken voor al deze veriabelen, maar vooral het effect op de ondervoeding/voedseltekort
 
 Hoofdstuk 4: aanbevelingen/conclusie
 
-
-- Uitwerken onderzoeksvraag aan de hand van analyseren data & graphs
-- Schatten van toekomst met regressie analyse / trend analyses. Aan de hand van deze gegevens een schatting maken voor al deze veriabelen, maar vooral het effect op de ondervoeding/voedseltekort
 
 # PythonProjectQuarter1
 
