@@ -1,6 +1,16 @@
 # Research questions
 optie 1: To what extend is the way food is produced related to hunger in sub-saharan africa and how will this trend develop until 2030? 
 
+subquestions:
+
+- What indicators strongly relate to zero hunger?
+- How did those indicators developed in the last decades (for individual countries in subharan africa)?
+
+- What the differences in hunger between countries? 
+- What is causing these differences, is this related to the way food is produced?
+
+- How will the indicators regarding zero hunger goals develop until 2030 under the influence of certain policies?
+
 optie 2: What indicators strongly relate to the production of food in sub-sahara africa and and how will the overall trend in hunger in SS africa look like?
 
 # Opbouw report
