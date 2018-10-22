@@ -1,4 +1,4 @@
-# Research questions
+# Research questions [OUTDATED - SEE PYTHON REPORT]
 optie 1: To what extend is the way food is produced related to hunger in sub-saharan africa and how will this trend develop until 2030? 
 
 subquestions:
