@@ -1,0 +1,1999 @@
+﻿year;disaster type;iso; country_name;occurrence;Total deaths;Injured;Affected;Homeless;Total affected;Total damage  ('000 US$)
+1960;Earthquake;DZA;Algeria;1;57;;;1250;1250;
+1960;Earthquake;MAR;Morocco;1;12000;25000;;;25000;120000
+1960;Storm;MUS;Mauritius;1;42;;;;;
+1961;Earthquake;ETH;Ethiopia;1;;;;;;
+1961;Flood;SOM;Somalia;1;200;;;;;
+1962;Flood;TUN;Tunisia;1;40;;;;;
+1963;Earthquake;LBY;Libya;1;320;;;;;5000
+1963;Flood;DZA;Algeria;1;;;45400;;45400;
+1963;Flood;MAR;Morocco;2;169;10;35000;;35010;
+1964;Drought;SOM;Somalia;1;50;;700000;;700000;
+1964;Drought;ZAF;South Africa;1;;;5000;;5000;
+1964;Earthquake;TZA;Tanzania, United Republic of;1;4;;500;;500;
+1964;Flood;KEN;Kenya;1;;;15000;;15000;
+1964;Flood;MAR;Morocco;1;76;;;;;
+1964;Flood;TZA;Tanzania, United Republic of;1;;;10000;3900;13900;
+1964;Flood;TUN;Tunisia;2;49;;21000;;21000;3000
+1965;Drought;BWA;Botswana;1;;;60000;;60000;
+1965;Drought;ETH;Ethiopia;1;2000;;1500000;;1500000;
+1965;Drought;KEN;Kenya;1;;;260000;;260000;
+1965;Drought;MRT;Mauritania;1;;;46000;;46000;
+1965;Earthquake;DZA;Algeria;1;2;350;37000;12000;49350;2000
+1965;Epidemic;SEN;Senegal;1;60;;150;;150;
+1965;Epidemic;SOM;Somalia;1;;;;;;
+1965;Epidemic;SDN;Sudan (the);1;;;2300;;2300;
+1965;Flood;MAR;Morocco;2;75;;47813;;47813;5000
+1966;Drought;BFA;Burkina Faso;1;;;;;;
+1966;Drought;TCD;Chad;1;;;;;;
+1966;Drought;MLI;Mali;1;;;;;;
+1966;Drought;MAR;Morocco;1;;;;;;
+1966;Drought;NER;Niger (the);1;;;;;;
+1966;Drought;SEN;Senegal;1;;;;;;
+1966;Earthquake;COD;Congo (the Democratic Republic of the);1;24;600;3000;;3600;200
+1966;Earthquake;UGA;Uganda;1;104;510;5000;;5510;1500
+1966;Epidemic;MAR;Morocco;1;200;;2942;;2942;
+1966;Epidemic;SDN;Sudan (the);1;;;;;;
+1966;Flood;DZA;Algeria;1;57;12;20000;15900;35912;10000
+1966;Flood;SEN;Senegal;1;;;2000;;2000;50
+1966;Storm;TGO;Togo;1;;15;;;15;200
+1967;Drought;TZA;Tanzania, United Republic of;1;;;53483;;53483;
+1967;Drought;UGA;Uganda;1;;;25000;;25000;200
+1967;Flood;DZA;Algeria;1;20;;30000;;30000;3000
+1967;Flood;MWI;Malawi;1;;;1200;;1200;500
+1967;Flood;MOZ;Mozambique;1;;;50000;;50000;180000
+1967;Landslide;COG;Congo (the);1;154;;500;168;668;
+1967;Storm;MUS;Mauritius;1;;24;20000;3500;23524;5000
+1968;Drought;BWA;Botswana;1;;;60000;;60000;1000
+1968;Drought;GMB;Gambia (the);1;;;180000;;180000;500
+1968;Drought;LSO;Lesotho;1;;;204000;;204000;1000
+1968;Flood;ETH;Ethiopia;1;1;;10000;6000;16000;920
+1968;Flood;GHA;Ghana;1;;;25000;;25000;74700
+1968;Flood;KEN;Kenya;1;;;;;;50
+1968;Flood;ZAF;South Africa;1;;;;;;30000
+1968;Flood;TZA;Tanzania, United Republic of;1;40;;57000;;57000;1000
+1968;Landslide;COD;Congo (the Democratic Republic of the);1;154;;600;168;768;
+1968;Storm;MDG;Madagascar;1;29;;65000;10000;75000;3100
+1969;Drought;BFA;Burkina Faso;1;;;975000;;975000;
+1969;Drought;TCD;Chad;1;;;900000;;900000;83000
+1969;Drought;ETH;Ethiopia;1;;;1700000;;1700000;1000
+1969;Drought;MRT;Mauritania;1;;;1300000;;1300000;34000
+1969;Drought;SEN;Senegal;1;;;1400000;;1400000;74800
+1969;Drought;SOM;Somalia;1;;;;;;
+1969;Earthquake;ETH;Ethiopia;1;24;165;;420;585;320
+1969;Earthquake;ZAF;South Africa;1;9;;1000;;1000;
+1969;Epidemic;BFA;Burkina Faso;2;434;;4550;;4550;
+1969;Epidemic;MLI;Mali;2;513;;4023;;4023;
+1969;Epidemic;NER;Niger (the);1;2;;5;;5;
+1969;Epidemic;NGA;Nigeria;1;2000;;80000;;80000;
+1969;Flood;DZA;Algeria;1;76;237;200000;;200237;10000
+1969;Flood;MWI;Malawi;1;;;2300;;2300;200
+1969;Flood;TUN;Tunisia;1;540;;271269;;271269;100000
+1969;Storm;MDG;Madagascar;1;81;40;40000;3000;43040;5000
+1970;Drought;BWA;Botswana;1;;;87600;;87600;2000
+1970;Epidemic;CIV;Côte d’Ivoire;1;120;;1500;;1500;
+1970;Epidemic;ETH;Ethiopia;1;500;;4000;;4000;
+1970;Epidemic;NER;Niger (the);1;319;;2677;;2677;
+1970;Flood;BEN;Benin;1;;;;;;200
+1970;Flood;MAR;Morocco;1;11;3;266441;;266444;30000
+1970;Storm;MDG;Madagascar;1;70;;10000;;10000;11400
+1971;Drought;CMR;Cameroon;1;;;400000;;400000;1500
+1971;Drought;GMB;Gambia (the);1;;;150000;;150000;200
+1971;Drought;GHA;Ghana;1;;;12000;;12000;100
+1971;Drought;KEN;Kenya;1;;;150000;;150000;1500
+1971;Drought;MAR;Morocco;1;;;137000;;137000;100
+1971;Drought;TGO;Togo;1;;;150000;;150000;500
+1971;Epidemic;TCD;Chad;1;2312;;7476;;7476;
+1971;Flood;MOZ;Mozambique;1;500;;500000;;500000;
+1972;Drought;BEN;Benin;1;;;115000;;115000;
+1972;Drought;CPV;Cabo Verde;1;;;;;;
+1972;Drought;GNB;Guinea-Bissau;1;;;;;;
+1972;Flood;BWA;Botswana;1;;;1000;;1000;50
+1972;Storm;MDG;Madagascar;1;91;56;2500000;10000;2510056;12420
+1972;Storm;MUS;Mauritius;1;2;16;25000;;25016;
+1973;Drought;ETH;Ethiopia;1;100000;;3000000;;3000000;76000
+1973;Flood;DZA;Algeria;1;21;;85000;61000;146000;10000
+1973;Flood;CAF;Central African Republic;1;;;13000;;13000;
+1973;Flood;TUN;Tunisia;2;111;;44240;;44240;5000
+1973;Wildfire;GMB;Gambia (the);1;;;;5000;5000;
+1974;Drought;SOM;Somalia;1;19000;;230000;;230000;
+1974;Epidemic;LSO;Lesotho;1;;;500;;500;
+1974;Flood;DZA;Algeria;1;11;;20000;;20000;30000
+1974;Flood;NER;Niger (the);1;;;16000;;16000;1000
+1974;Flood;RWA;Rwanda;1;;;1900000;;1900000;
+1974;Flood;ZAF;South Africa;1;26;;;;;
+1974;Flood;TZA;Tanzania, United Republic of;1;25;;50000;18000;68000;3000
+1975;Complex Disasters;COM;Comoros (the);1;;;300000;;300000;
+1975;Flood;EGY;Egypt;1;15;;;;;
+1975;Flood;KEN;Kenya;1;;;16000;;16000;
+1975;Flood;MAR;Morocco;1;10;;12000;;12000;
+1975;Flood;MOZ;Mozambique;2;1;;75000;;75000;
+1975;Flood;SDN;Sudan (the);1;;;145000;;145000;
+1975;Storm;MDG;Madagascar;1;7;50;10000;;10050;
+1975;Storm;MUS;Mauritius;1;9;59;826199;;826258;200000
+1975;Storm;SLE;Sierra Leone;1;1;;10000;;10000;3600
+1975;Storm;ZWE;Zimbabwe;1;11;;;;;
+1976;Drought;MRT;Mauritania;1;;;1420000;;1420000;
+1976;Drought;RWA;Rwanda;1;;;1700000;;1700000;
+1976;Epidemic;BEN;Benin;1;1;;7;;7;
+1976;Epidemic;COD;Congo (the Democratic Republic of the);1;245;;262;;262;
+1976;Epidemic;SDN;Sudan (the);1;150;;299;;299;
+1976;Flood;ETH;Ethiopia;1;;;50000;20000;70000;
+1976;Storm;MDG;Madagascar;1;16;26;500000;8850;508876;17000
+1977;Drought;BFA;Burkina Faso;1;;;442000;;442000;
+1977;Drought;GMB;Gambia (the);1;;;;;;
+1977;Drought;GHA;Ghana;1;;;;;;
+1977;Drought;SEN;Senegal;1;;;3715000;;3715000;300000
+1977;Drought;TZA;Tanzania, United Republic of;1;;;20000;;20000;
+1977;Drought;TUN;Tunisia;1;;;31400;;31400;
+1977;Epidemic;GHA;Ghana;1;;;6558;;6558;
+1977;Epidemic;SOM;Somalia;1;;;2671;;2671;
+1977;Epidemic;TZA;Tanzania, United Republic of;2;500;;6050;;6050;
+1977;Flood;BFA;Burkina Faso;1;;;;900;900;
+1977;Flood;DJI;Djibouti;1;;;85000;6000;91000;2500
+1977;Flood;ETH;Ethiopia;1;7;;16000;;16000;
+1977;Flood;KEN;Kenya;1;100;;20000;;20000;10000
+1977;Flood;MAR;Morocco;1;;;;38000;38000;
+1977;Flood;MOZ;Mozambique;1;300;;400000;40000;440000;55500
+1977;Flood;SOM;Somalia;1;;;40000;;40000;
+1977;Flood;ZAF;South Africa;1;4;;1000;;1000;
+1977;Storm;TCD;Chad;1;13;100;;;100;
+1977;Storm;MDG;Madagascar;1;10;;30000;;30000;350000
+1977;Storm;MOZ;Mozambique;1;3;51;;;51;
+1977;Volcanic activity;COM;Comoros (the);1;1;;20000;5000;25000;
+1977;Volcanic activity;COD;Congo (the Democratic Republic of the);1;147;;;60000;60000;
+1977;Volcanic activity;ETH;Ethiopia;1;64;;;;;
+1977;Volcanic activity;REU;Réunion;1;;;1000;;1000;
+1978;Drought;COD;Congo (the Democratic Republic of the);1;;;500000;;500000;
+1978;Drought;MLI;Mali;1;;;;;;
+1978;Drought;MRT;Mauritania;1;;;27000;;27000;25500
+1978;Epidemic;BDI;Burundi;1;54;;1530;;1530;
+1978;Epidemic;COD;Congo (the Democratic Republic of the);1;;;;;;
+1978;Epidemic;GMB;Gambia (the);1;200;;;;;
+1978;Epidemic;RWA;Rwanda;2;17;;2000;;2000;
+1978;Epidemic;SEN;Senegal;1;5;;298;;298;
+1978;Flood;DJI;Djibouti;1;;;100000;6000;106000;
+1978;Flood;ETH;Ethiopia;1;9;;1000;;1000;
+1978;Flood;MOZ;Mozambique;1;40;;200000;;200000;63000
+1978;Flood;SEN;Senegal;1;;;;;;2000
+1978;Flood;ZAF;South Africa;1;26;;;;;
+1978;Flood;SDN;Sudan (the);1;34;;100000;;100000;25000
+1978;Flood;TZA;Tanzania, United Republic of;1;;;9000;;9000;
+1978;Flood;ZMB;Zambia;1;11;900;30000;;30900;200
+1978;Insect infestation;GNB;Guinea-Bissau;1;;;;;;
+1978;Storm;MDG;Madagascar;1;70;;18000;;18000;29000
+1978;Storm;MOZ;Mozambique;1;4;;80000;25000;105000;
+1978;Storm;NGA;Nigeria;1;100;;;;;
+1978;Wildfire;BEN;Benin;1;2;200;4000;3000;7200;
+1979;Drought;KEN;Kenya;1;;;40000;;40000;
+1979;Drought;MOZ;Mozambique;1;;;6000000;;6000000;
+1979;Drought;SEN;Senegal;1;;;950000;;950000;
+1979;Drought;UGA;Uganda;1;;;500000;;500000;
+1979;Epidemic;BFA;Burkina Faso;1;241;;1612;;1612;
+1979;Epidemic;MLI;Mali;1;30;;80;;80;
+1979;Flood;DZA;Algeria;1;;;30000;;30000;
+1979;Flood;EGY;Egypt;1;50;;66000;;66000;14000
+1979;Flood;MWI;Malawi;1;;;20000;;20000;
+1979;Flood;MAR;Morocco;1;16;;5560;732;6292;
+1979;Flood;TZA;Tanzania, United Republic of;1;;;90000;;90000;
+1979;Flood;TUN;Tunisia;1;;;750;;750;
+1979;Insect infestation;ZMB;Zambia;1;;;;;;
+1979;Storm;EGY;Egypt;1;3;;15000;;15000;
+1979;Storm;MUS;Mauritius;2;5;257;100000;5000;105257;175000
+1980;Drought;BFA;Burkina Faso;1;;;1250000;;1250000;
+1980;Drought;DJI;Djibouti;1;;;145000;;145000;
+1980;Drought;GMB;Gambia (the);1;;;500000;;500000;
+1980;Drought;MLI;Mali;1;;;1500000;;1500000;
+1980;Drought;MRT;Mauritania;1;;;1600000;;1600000;
+1980;Drought;NER;Niger (the);1;;;3500000;;3500000;
+1980;Drought;SOM;Somalia;1;;;;;;
+1980;Drought;ZAF;South Africa;1;;;;;;
+1980;Drought;SDN;Sudan (the);1;;;;;;
+1980;Earthquake;DZA;Algeria;2;2635;8459;478948;443000;930407;5200000
+1980;Epidemic;ETH;Ethiopia;1;157;;25000;;25000;
+1980;Epidemic;LBR;Liberia;1;466;;1887;;1887;
+1980;Epidemic;MUS;Mauritius;1;;;108;;108;
+1980;Epidemic;MOZ;Mozambique;1;10;;200;;200;
+1980;Epidemic;TZA;Tanzania, United Republic of;1;12;;;;;
+1980;Landslide;REU;Réunion;1;10;;;;;
+1980;Storm;REU;Réunion;1;25;;7000;;7000;67000
+1981;Drought;DZA;Algeria;1;;;;;;
+1981;Drought;AGO;Angola;1;;;80000;;80000;
+1981;Drought;TCD;Chad;1;3000;;1500000;;1500000;
+1981;Drought;COM;Comoros (the);1;;;;;;
+1981;Drought;GIN;Guinea;1;;;;;;
+1981;Drought;MDG;Madagascar;1;;;1000000;;1000000;
+1981;Drought;MOZ;Mozambique;1;100000;;4750000;;4750000;
+1981;Epidemic;BFA;Burkina Faso;2;1091;;10013;;10013;
+1981;Epidemic;ETH;Ethiopia;1;990;;50000;;50000;
+1981;Epidemic;MLI;Mali;1;412;;4153;;4153;
+1981;Flood;DZA;Algeria;1;43;50;;;50;
+1981;Flood;DJI;Djibouti;1;25;;102000;;102000;
+1981;Flood;ETH;Ethiopia;1;;;20000;;20000;
+1981;Flood;GIN;Guinea;1;;;5000;;5000;
+1981;Flood;MOZ;Mozambique;1;;;500000;;500000;
+1981;Flood;SOM;Somalia;1;5;;30000;;30000;
+1981;Flood;ZAF;South Africa;1;104;;;185;185;1000
+1981;Storm;CAF;Central African Republic;1;;50;900;900;1850;125
+1981;Storm;MDG;Madagascar;1;107;;118000;;118000;250000
+1982;Drought;BWA;Botswana;1;;;1037300;;1037300;
+1982;Drought;CPV;Cabo Verde;1;;;;;;
+1982;Drought;GNB;Guinea-Bissau;1;;;;;;
+1982;Drought;NAM;Namibia;1;;;;;;
+1982;Drought;SEN;Senegal;1;;;1200000;;1200000;
+1982;Drought;ZAF;South Africa;1;;;;;;
+1982;Drought;ZMB;Zambia;1;;;;;;
+1982;Drought;ZWE;Zimbabwe;1;;;;;;1000
+1982;Earthquake;ZAF;South Africa;1;17;;;;;
+1982;Epidemic;MRT;Mauritania;1;5;;12;;12;
+1982;Epidemic;UGA;Uganda;1;3;;153;;153;
+1982;Epidemic;ZMB;Zambia;1;51;;;;;
+1982;Flood;DZA;Algeria;1;37;14;8500;;8514;
+1982;Flood;BEN;Benin;1;;;500000;80000;580000;
+1982;Flood;KEN;Kenya;1;75;;3000;;3000;
+1982;Flood;MWI;Malawi;1;;;6000;;6000;
+1982;Flood;TZA;Tanzania, United Republic of;1;;;40000;;40000;
+1982;Flood;TUN;Tunisia;1;117;;30000;;30000;90000
+1982;Landslide;MAR;Morocco;1;1;;10000;2216;12216;
+1982;Mass movement (dry);LBR;Liberia;1;46;;200;;200;
+1982;Storm;CPV;Cabo Verde;1;3;122;2100;;2222;3000
+1982;Storm;MDG;Madagascar;1;92;;;70000;70000;250000
+1982;Storm;MUS;Mauritius;2;;;32500;;32500;973
+1983;Drought;BEN;Benin;1;;;2100000;;2100000;651
+1983;Drought;CAF;Central African Republic;1;;;;;;
+1983;Drought;COG;Congo (the);1;;;;;;
+1983;Drought;CIV;Côte d’Ivoire;1;;;;;;
+1983;Drought;DJI;Djibouti;1;;;80000;;80000;
+1983;Drought;ETH;Ethiopia;1;300000;;7750000;;7750000;
+1983;Drought;GHA;Ghana;1;;;12500000;;12500000;
+1983;Drought;LSO;Lesotho;1;;;500000;;500000;
+1983;Drought;LBR;Liberia;1;;;;;;
+1983;Drought;MAR;Morocco;1;;;;;;
+1983;Drought;NGA;Nigeria;1;;;3000000;;3000000;71103
+1983;Drought;STP;Sao Tome and Principe;1;;;93000;;93000;
+1983;Drought;SOM;Somalia;1;;;;;;
+1983;Drought;SDN;Sudan (the);1;150000;;8400000;;8400000;
+1983;Drought;SWZ;Swaziland;1;500;;;;;
+1983;Drought;TGO;Togo;1;;;;;;
+1983;Drought;ZMB;Zambia;1;;;;;;
+1983;Earthquake;GIN;Guinea;1;275;1436;20000;;21436;
+1983;Epidemic;BFA;Burkina Faso;1;237;;386;;386;
+1983;Epidemic;MOZ;Mozambique;1;189;;5679;;5679;
+1983;Epidemic;TZA;Tanzania, United Republic of;1;163;;;;;
+1983;Flood;SEN;Senegal;1;;;5000;;5000;1406
+1983;Flood;SDN;Sudan (the);2;;;102000;30000;132000;
+1983;Storm;COM;Comoros (the);1;33;52;30000;;30052;23000
+1983;Storm;MDG;Madagascar;1;42;;13560;;13560;25000
+1983;Storm;MUS;Mauritius;1;1;1;350;;351;
+1983;Storm;ZAF;South Africa;1;10;200;;;200;
+1984;Drought;COD;Congo (the Democratic Republic of the);1;;;300000;;300000;
+1984;Drought;KEN;Kenya;1;;;600000;;600000;
+1984;Drought;MAR;Morocco;1;;;;;;
+1984;Drought;RWA;Rwanda;1;;;420000;;420000;
+1984;Drought;SWZ;Swaziland;1;;;;;;
+1984;Drought;TZA;Tanzania, United Republic of;1;;;1900000;;1900000;
+1984;Epidemic;BFA;Burkina Faso;1;;;1000;;1000;
+1984;Epidemic;GHA;Ghana;1;103;;1500;;1500;
+1984;Epidemic;MLI;Mali;1;1022;;4502;;4502;
+1984;Epidemic;NER;Niger (the);1;;;;;;
+1984;Epidemic;SEN;Senegal;1;;;;;;
+1984;Flood;DZA;Algeria;1;54;;;1470;1470;
+1984;Flood;BFA;Burkina Faso;1;;;1500;;1500;
+1984;Flood;MRT;Mauritania;1;;;3000;;3000;
+1984;Storm;CPV;Cabo Verde;1;29;;5500;;5500;
+1984;Storm;MDG;Madagascar;1;68;215;100000;;100215;250000
+1984;Storm;MUS;Mauritius;1;;;;;;
+1984;Storm;MOZ;Mozambique;1;109;;350000;;350000;75000
+1984;Storm;REU;Réunion;1;;;;;;
+1984;Storm;SLE;Sierra Leone;1;60;;;;;
+1984;Storm;ZAF;South Africa;2;64;;500000;;500000;142000
+1984;Storm;SWZ;Swaziland;1;53;;632000;500;632500;54152
+1984;Volcanic activity;CMR;Cameroon;1;37;;;;;
+1984;Wildfire;BEN;Benin;1;;;;;;
+1985;Drought;AGO;Angola;1;;;500000;;500000;
+1985;Earthquake;DZA;Algeria;1;30;;;;;1000
+1985;Epidemic;ETH;Ethiopia;1;1101;;4815;;4815;
+1985;Epidemic;SEN;Senegal;1;300;;3100;;3100;
+1985;Epidemic;SLE;Sierra Leone;1;352;;3000;;3000;
+1985;Epidemic;SOM;Somalia;1;1262;;4815;;4815;
+1985;Epidemic;TZA;Tanzania, United Republic of;1;10;;118;;118;
+1985;Flood;DZA;Algeria;1;26;;;15000;15000;
+1985;Flood;BEN;Benin;1;61;;345000;130000;475000;4800
+1985;Flood;BFA;Burkina Faso;1;;;;572;572;
+1985;Flood;TCD;Chad;1;;;;500;500;
+1985;Flood;ETH;Ethiopia;2;9;;8000;20000;28000;
+1985;Flood;LSO;Lesotho;1;;;80000;;80000;
+1985;Flood;MRT;Mauritania;1;;;6000;900;6900;
+1985;Flood;MOZ;Mozambique;1;8;;500000;;500000;500
+1985;Flood;NGA;Nigeria;1;;;6000;;6000;8000
+1985;Flood;SEN;Senegal;1;;;3000;;3000;
+1985;Insect infestation;MLI;Mali;1;;;;;;
+1985;Insect infestation;MRT;Mauritania;1;;;;;;
+1985;Storm;COM;Comoros (the);1;2;;35000;;35000;5568
+1985;Storm;MUS;Mauritius;1;;;;;;
+1985;Storm;MOZ;Mozambique;1;;;;;;
+1985;Wildfire;GHA;Ghana;1;4;;1500;;1500;
+1986;Drought;ZAF;South Africa;1;;;850000;;850000;
+1986;Epidemic;NGA;Nigeria;2;1073;;1400;;1400;
+1986;Epidemic;STP;Sao Tome and Principe;1;150;;;;;
+1986;Epidemic;SOM;Somalia;1;1307;;7093;;7093;
+1986;Epidemic;UGA;Uganda;1;27;;340;;340;
+1986;Flood;MDG;Madagascar;1;;;28223;;28223;
+1986;Flood;TZA;Tanzania, United Republic of;1;;;;6000;6000;
+1986;Flood;TUN;Tunisia;1;23;;;2500;2500;
+1986;Insect infestation;BWA;Botswana;1;;;;;;
+1986;Insect infestation;BFA;Burkina Faso;1;;;;;;
+1986;Insect infestation;TCD;Chad;1;;;;;;
+1986;Insect infestation;ETH;Ethiopia;1;;;;;;
+1986;Insect infestation;GMB;Gambia (the);1;;;;;;
+1986;Insect infestation;GNB;Guinea-Bissau;1;;;;;;
+1986;Insect infestation;MLI;Mali;1;;;;;;
+1986;Insect infestation;NER;Niger (the);1;;;;;;
+1986;Insect infestation;NGA;Nigeria;1;;;;;;
+1986;Insect infestation;SEN;Senegal;1;;;;;;
+1986;Insect infestation;SDN;Sudan (the);1;;;;;;
+1986;Insect infestation;TZA;Tanzania, United Republic of;1;;;;;;
+1986;Insect infestation;ZMB;Zambia;1;;;;;;
+1986;Storm;MDG;Madagascar;1;99;424;83885;;84309;150000
+1986;Volcanic activity;CMR;Cameroon;1;1746;437;10000;;10437;
+1987;Drought;ETH;Ethiopia;1;367;;7000000;;7000000;
+1987;Drought;MWI;Malawi;1;;;1429267;;1429267;
+1987;Drought;MOZ;Mozambique;1;50;;8000;;8000;
+1987;Drought;SOM;Somalia;1;600;;500000;;500000;
+1987;Drought;SDN;Sudan (the);1;;;3450000;;3450000;
+1987;Drought;UGA;Uganda;1;;;600000;;600000;
+1987;Earthquake;DZA;Algeria;1;1;7;3145;;3152;1000
+1987;Earthquake;ZAF;South Africa;1;9;25;285;;310;
+1987;Epidemic;AGO;Angola;1;59;;673;;673;
+1987;Epidemic;BEN;Benin;2;65;;403;;403;
+1987;Epidemic;COD;Congo (the Democratic Republic of the);2;498;;;;;
+1987;Epidemic;GIN;Guinea;1;18;;30;;30;
+1987;Epidemic;GNB;Guinea-Bissau;1;68;;6000;;6000;
+1987;Epidemic;MLI;Mali;2;202;;305;;305;
+1987;Epidemic;MRT;Mauritania;1;35;;178;;178;
+1987;Epidemic;NGA;Nigeria;5;530;;120;;120;
+1987;Epidemic;SDN;Sudan (the);1;60;;;;;
+1987;Epidemic;TZA;Tanzania, United Republic of;1;90;;500;;500;
+1987;Flood;LSO;Lesotho;1;18;;100000;;100000;
+1987;Flood;SOM;Somalia;1;;;;30000;30000;
+1987;Flood;ZAF;South Africa;1;506;;65000;;65000;765305
+1987;Insect infestation;DZA;Algeria;1;;;;;;
+1987;Insect infestation;BFA;Burkina Faso;1;;;;;;
+1987;Insect infestation;CMR;Cameroon;1;;;;;;
+1987;Insect infestation;TCD;Chad;2;;;;;;
+1987;Insect infestation;ETH;Ethiopia;1;;;;;;
+1987;Insect infestation;GMB;Gambia (the);1;;;;;;
+1987;Insect infestation;GNB;Guinea-Bissau;1;;;;;;
+1987;Insect infestation;MLI;Mali;1;;;;;;
+1987;Insect infestation;MRT;Mauritania;1;;;;;;
+1987;Insect infestation;MAR;Morocco;1;;;;;;
+1987;Insect infestation;NER;Niger (the);1;;;;;;
+1987;Insect infestation;SEN;Senegal;1;;;;;;
+1987;Insect infestation;SDN;Sudan (the);1;;;;;;
+1987;Storm;COM;Comoros (the);1;24;;;50000;50000;9000
+1987;Storm;EGY;Egypt;1;30;11;;;11;
+1987;Storm;GNB;Guinea-Bissau;1;1;3;;3700;3703;
+1987;Storm;REU;Réunion;1;10;;4000;;4000;2000
+1988;Drought;BFA;Burkina Faso;1;;;200000;;200000;
+1988;Drought;DJI;Djibouti;1;;;30000;;30000;
+1988;Drought;MDG;Madagascar;1;200;;950000;;950000;
+1988;Drought;NER;Niger (the);1;;;1000000;;1000000;
+1988;Drought;SOM;Somalia;1;;;53500;;53500;
+1988;Drought;ZAF;South Africa;1;;;1320000;;1320000;
+1988;Drought;TZA;Tanzania, United Republic of;1;;;110000;;110000;
+1988;Drought;TUN;Tunisia;1;;;;;;
+1988;Earthquake;DZA;Algeria;1;;57;;200;257;
+1988;Earthquake;ZAF;South Africa;1;8;28;;;28;
+1988;Earthquake;UGA;Uganda;1;;;2000;;2000;
+1988;Epidemic;BWA;Botswana;1;183;;14618;;14618;
+1988;Epidemic;CMR;Cameroon;1;39;;340;;340;
+1988;Epidemic;TCD;Chad;1;433;;6794;;6794;
+1988;Epidemic;ETH;Ethiopia;2;7400;;41304;;41304;
+1988;Epidemic;GAB;Gabon;1;;;132;;132;
+1988;Epidemic;GHA;Ghana;1;15;;138;;138;
+1988;Epidemic;MLI;Mali;1;47;;159;;159;
+1988;Epidemic;MRT;Mauritania;1;38;;575;;575;
+1988;Epidemic;NAM;Namibia;1;100;;;;;
+1988;Epidemic;SDN;Sudan (the);2;2770;;38805;;38805;
+1988;Epidemic;TGO;Togo;1;50;;1617;;1617;
+1988;Flood;BEN;Benin;1;;;68000;16000;84000;
+1988;Flood;BWA;Botswana;1;8;7;12000;;12007;
+1988;Flood;BFA;Burkina Faso;1;16;;23324;10000;33324;
+1988;Flood;CMR;Cameroon;1;2;;1000;;1000;
+1988;Flood;TCD;Chad;1;43;48;47450;;47498;
+1988;Flood;ETH;Ethiopia;2;45;;47240;;47240;
+1988;Flood;GAB;Gabon;1;;;10000;;10000;
+1988;Flood;MLI;Mali;1;17;;;10000;10000;
+1988;Flood;NER;Niger (the);1;20;;80000;;80000;10200
+1988;Flood;NGA;Nigeria;1;130;;;300000;300000;
+1988;Flood;RWA;Rwanda;1;48;50;21628;;21678;
+1988;Flood;SEN;Senegal;1;;;;10000;10000;
+1988;Flood;ZAF;South Africa;1;25;;;;;
+1988;Flood;SDN;Sudan (the);1;96;;1500000;1000000;2500000;
+1988;Flood;TZA;Tanzania, United Republic of;1;;;6500;;6500;
+1988;Insect infestation;DZA;Algeria;1;;;;;;
+1988;Insect infestation;CPV;Cabo Verde;1;;;;;;
+1988;Insect infestation;TCD;Chad;1;;;;;;
+1988;Insect infestation;ETH;Ethiopia;1;;;;;;
+1988;Insect infestation;GMB;Gambia (the);1;;;;;;
+1988;Insect infestation;MLI;Mali;1;;;;;;
+1988;Insect infestation;MRT;Mauritania;1;;;;;;
+1988;Insect infestation;MAR;Morocco;2;;;;;;
+1988;Insect infestation;MOZ;Mozambique;1;;;;;;
+1988;Insect infestation;NER;Niger (the);1;;;;;;
+1988;Insect infestation;SEN;Senegal;2;;;;;;
+1988;Insect infestation;SDN;Sudan (the);2;;;;;;
+1988;Insect infestation;TUN;Tunisia;2;;;;;;
+1988;Landslide;NGA;Nigeria;1;;;;1500;1500;
+1988;Mass movement (dry);MAR;Morocco;1;31;;;;;
+1988;Storm;DZA;Algeria;1;;;10107;;10107;
+1988;Storm;TCD;Chad;1;11;;1200;;1200;157
+1988;Storm;KEN;Kenya;1;50;;;;;
+1988;Storm;MOZ;Mozambique;1;100;;4000;;4000;
+1989;Drought;AGO;Angola;1;;;1900000;;1900000;
+1989;Drought;ETH;Ethiopia;1;;;6500000;;6500000;
+1989;Drought;RWA;Rwanda;1;237;;60000;;60000;
+1989;Drought;TGO;Togo;1;;;400000;;400000;
+1989;Earthquake;DZA;Algeria;1;22;184;12000;;12184;
+1989;Earthquake;MWI;Malawi;1;9;100;;50000;50100;28000
+1989;Epidemic;AGO;Angola;1;766;;15525;;15525;
+1989;Epidemic;BEN;Benin;1;228;;2411;;2411;
+1989;Epidemic;CMR;Cameroon;1;100;;550;;550;
+1989;Epidemic;COM;Comoros (the);1;3;;450;;450;
+1989;Epidemic;GHA;Ghana;1;;;19;;19;
+1989;Epidemic;MWI;Malawi;1;35;;444;;444;
+1989;Epidemic;NER;Niger (the);2;186;;1785;;1785;
+1989;Epidemic;NGA;Nigeria;1;29;;41;;41;
+1989;Epidemic;STP;Sao Tome and Principe;1;31;;1063;;1063;
+1989;Epidemic;UGA;Uganda;1;156;;961;;961;
+1989;Flood;AGO;Angola;1;;;100000;;100000;
+1989;Flood;BDI;Burundi;1;12;;3600;;3600;
+1989;Flood;CIV;Côte d’Ivoire;1;;;7000;;7000;
+1989;Flood;DJI;Djibouti;1;10;300;150000;;150300;1100
+1989;Flood;GHA;Ghana;1;7;;2800;;2800;
+1989;Flood;MWI;Malawi;1;13;;;100000;100000;
+1989;Flood;MLI;Mali;1;1;;14635;;14635;
+1989;Flood;MOZ;Mozambique;1;2;;;;;
+1989;Flood;SOM;Somalia;2;34;;50000;;50000;
+1989;Flood;TZA;Tanzania, United Republic of;1;10;;141056;;141056;
+1989;Flood;ZMB;Zambia;1;;;800000;;800000;
+1989;Landslide;COD;Congo (the Democratic Republic of the);1;;;148;;148;
+1989;Storm;COM;Comoros (the);1;;;;;;5236
+1989;Storm;LSO;Lesotho;1;;;;;;
+1989;Storm;MDG;Madagascar;1;46;;55346;;55346;
+1989;Storm;MUS;Mauritius;1;1;507;4000;;4507;60000
+1989;Storm;REU;Réunion;1;10;61;6200;;6261;50000
+1990;Drought;BFA;Burkina Faso;1;;;2600000;;2600000;
+1990;Drought;CMR;Cameroon;1;;;186900;;186900;
+1990;Drought;MWI;Malawi;1;;;2800000;;2800000;
+1990;Drought;NER;Niger (the);1;;;1630000;;1630000;
+1990;Drought;SDN;Sudan (the);1;;;600000;;600000;
+1990;Drought;SWZ;Swaziland;1;;;250000;;250000;1739
+1990;Earthquake;KEN;Kenya;1;;;;;;
+1990;Earthquake;ZAF;South Africa;1;10;6;;;6;
+1990;Earthquake;SDN;Sudan (the);1;;;8000;;8000;
+1990;Earthquake;UGA;Uganda;2;;;;;;
+1990;Epidemic;CMR;Cameroon;1;118;;172;;172;
+1990;Epidemic;MOZ;Mozambique;2;694;;4000;;4000;
+1990;Epidemic;NGA;Nigeria;1;60;;;;;
+1990;Epidemic;TZA;Tanzania, United Republic of;1;200;;;;;
+1990;Epidemic;UGA;Uganda;1;197;;1170;;1170;
+1990;Epidemic;ZMB;Zambia;1;85;;667;;667;
+1990;Extreme temperature ;LBR;Liberia;1;;;1000000;;1000000;47000
+1990;Flood;COD;Congo (the Democratic Republic of the);1;23;500;15000;12000;27500;
+1990;Flood;ETH;Ethiopia;1;;;350000;;350000;
+1990;Flood;KEN;Kenya;1;44;;;;;
+1990;Flood;LSO;Lesotho;1;22;;;;;
+1990;Flood;TZA;Tanzania, United Republic of;2;189;;142000;20868;162868;280
+1990;Flood;TUN;Tunisia;1;37;;152000;;152000;242800
+1990;Storm;ZAF;South Africa;1;2;;;;;393000
+1991;Drought;KEN;Kenya;1;;;2700000;;2700000;
+1991;Drought;MLI;Mali;1;;;302000;;302000;
+1991;Drought;MOZ;Mozambique;1;;;3300000;;3300000;50000
+1991;Drought;NAM;Namibia;1;;;250000;;250000;50000
+1991;Drought;ZAF;South Africa;1;;;;;;1000000
+1991;Drought;SDN;Sudan (the);1;;;8600000;;8600000;
+1991;Drought;TZA;Tanzania, United Republic of;1;;;800000;;800000;
+1991;Drought;ZMB;Zambia;1;;;1700000;;1700000;
+1991;Drought;ZWE;Zimbabwe;1;;;5000000;;5000000;50000
+1991;Epidemic;DZA;Algeria;1;;;204;;204;
+1991;Epidemic;BFA;Burkina Faso;1;37;;;;;
+1991;Epidemic;CMR;Cameroon;1;308;;1343;;1343;
+1991;Epidemic;TCD;Chad;1;1262;;12204;;12204;
+1991;Epidemic;COD;Congo (the Democratic Republic of the);1;500;;;;;
+1991;Epidemic;CIV;Côte d’Ivoire;1;16;50;;;50;
+1991;Epidemic;GHA;Ghana;1;20;;;;;
+1991;Epidemic;KEN;Kenya;1;26;;200;;200;
+1991;Epidemic;NER;Niger (the);2;2842;;90147;;90147;
+1991;Epidemic;NGA;Nigeria;2;7689;;11200;;11200;
+1991;Epidemic;RWA;Rwanda;1;32;;214;;214;
+1991;Epidemic;SDN;Sudan (the);1;12;;;;;
+1991;Epidemic;TZA;Tanzania, United Republic of;2;574;;1733;;1733;
+1991;Epidemic;UGA;Uganda;1;100;;;;;
+1991;Epidemic;ZMB;Zambia;1;;;13154;;13154;
+1991;Flood;BEN;Benin;1;3;;;;;
+1991;Flood;CMR;Cameroon;1;2;;;200;200;
+1991;Flood;TCD;Chad;1;39;14;;;14;
+1991;Flood;EGY;Egypt;1;1;8;;200;208;
+1991;Flood;GHA;Ghana;1;5;;2000000;;2000000;
+1991;Flood;MWI;Malawi;1;472;;;150000;150000;24000
+1991;Mass movement (dry);ETH;Ethiopia;1;13;;;;;
+1991;Storm;MDG;Madagascar;1;36;;125000;125000;250000;
+1991;Storm;MRT;Mauritania;1;4;300;;;300;
+1991;Storm;MUS;Mauritius;1;;;6000;1500;7500;
+1991;Volcanic activity;COM;Comoros (the);1;;;;200;200;
+1991;Wildfire;ZAF;South Africa;1;5;;;;;
+1992;Complex Disasters;TGO;Togo;1;;;50000;;50000;
+1992;Drought;BWA;Botswana;1;;;100000;;100000;
+1992;Drought;CPV;Cabo Verde;1;;;;;;
+1992;Drought;LSO;Lesotho;1;;;331500;;331500;
+1992;Drought;MWI;Malawi;1;;;7000000;;7000000;
+1992;Earthquake;DZA;Algeria;1;;;2250;;2250;
+1992;Earthquake;COD;Congo (the Democratic Republic of the);1;9;61;;250;311;
+1992;Earthquake;EGY;Egypt;1;552;9929;57700;25020;92649;1200000
+1992;Epidemic;BDI;Burundi;1;220;;2068;;2068;
+1992;Epidemic;CMR;Cameroon;1;731;;7865;;7865;
+1992;Epidemic;CAF;Central African Republic;1;56;;418;;418;
+1992;Epidemic;MWI;Malawi;1;;;;;;
+1992;Epidemic;MOZ;Mozambique;1;587;;225673;;225673;
+1992;Epidemic;NGA;Nigeria;1;100;;;;;
+1992;Epidemic;SWZ;Swaziland;1;30;;2228;;2228;
+1992;Epidemic;TZA;Tanzania, United Republic of;1;2231;40249;;;40249;
+1992;Epidemic;UGA;Uganda;1;50;;;;;
+1992;Epidemic;ZMB;Zambia;1;;;11659;;11659;
+1992;Epidemic;ZWE;Zimbabwe;1;258;;5649;;5649;
+1992;Extreme temperature ;NGA;Nigeria;1;18;;;;;
+1992;Flood;DZA;Algeria;1;21;8;;2250;2258;900
+1992;Insect infestation;ETH;Ethiopia;1;;;;;;
+1993;Drought;TCD;Chad;1;;;300000;;300000;
+1993;Drought;ERI;Eritrea;1;;;1600000;;1600000;
+1993;Drought;MRT;Mauritania;1;;;446507;;446507;
+1993;Earthquake;SDN;Sudan (the);1;3;15;;;15;
+1993;Epidemic;CMR;Cameroon;1;513;;4070;;4070;
+1993;Flood;DZA;Algeria;1;22;16;;;16;
+1993;Flood;DJI;Djibouti;1;;;20000;;20000;
+1993;Flood;ETH;Ethiopia;2;2;;30000;4800;34800;
+1993;Flood;GIN;Guinea;1;;;6066;;6066;
+1993;Flood;SEN;Senegal;1;;;5000;;5000;
+1993;Flood;ZAF;South Africa;1;12;;;15000;15000;
+1993;Flood;SDN;Sudan (the);1;21;;;2000;2000;200
+1993;Flood;TZA;Tanzania, United Republic of;2;54;30;201513;280;201823;3510
+1993;Landslide;DZA;Algeria;1;15;46;;650;696;
+1993;Mass movement (dry);EGY;Egypt;1;34;;300;;300;
+1993;Storm;ERI;Eritrea;1;3;16;;15659;15675;5165
+1993;Storm;GNB;Guinea-Bissau;1;;;1722;;1722;
+1993;Storm;REU;Réunion;1;14;;;;;
+1993;Storm;ZAF;South Africa;1;7;;;;;
+1994;Drought;KEN;Kenya;1;;;1200000;;1200000;
+1994;Earthquake;DZA;Algeria;1;171;289;12500;;12789;
+1994;Earthquake;UGA;Uganda;1;7;;50000;;50000;70000
+1994;Epidemic;CPV;Cabo Verde;1;245;;12344;;12344;
+1994;Epidemic;DJI;Djibouti;1;10;;239;;239;
+1994;Epidemic;GAB;Gabon;1;20;;;;;
+1994;Epidemic;GIN;Guinea;1;311;;24000;;24000;
+1994;Epidemic;GNB;Guinea-Bissau;1;195;;8631;;8631;
+1994;Epidemic;KEN;Kenya;1;1000;;6500000;;6500000;
+1994;Epidemic;SOM;Somalia;1;100;;17000;;17000;
+1994;Flood;DZA;Algeria;2;40;;1200;30000;31200;
+1994;Flood;BEN;Benin;1;;;14000;20000;34000;
+1994;Flood;BFA;Burkina Faso;1;22;;66500;;66500;
+1994;Flood;CMR;Cameroon;1;6;;;;;
+1994;Flood;COD;Congo (the Democratic Republic of the);1;39;;;50;50;
+1994;Flood;COG;Congo (the);1;;;16500;;16500;
+1994;Flood;DJI;Djibouti;1;145;;100000;20000;120000;2119
+1994;Flood;EGY;Egypt;1;600;;110660;50000;160660;140000
+1994;Flood;ETH;Ethiopia;1;4;14;43000;;43014;3500
+1994;Flood;NER;Niger (the);1;60;;;61992;61992;
+1994;Flood;NGA;Nigeria;1;30;;180000;400000;580000;66500
+1994;Flood;SEN;Senegal;1;;;;17500;17500;
+1994;Flood;SOM;Somalia;1;100;;;;;
+1994;Flood;ZAF;South Africa;1;;;11000;;11000;
+1994;Flood;SDN;Sudan (the);1;8;;5965;;5965;
+1994;Flood;TZA;Tanzania, United Republic of;1;31;;;7000;7000;
+1994;Flood;TGO;Togo;1;;;10000;1500;11500;
+1994;Landslide;ETH;Ethiopia;1;22;10;;19;29;
+1994;Storm;MDG;Madagascar;3;212;51;500000;40000;540051;10200
+1994;Storm;MUS;Mauritius;1;2;;800;1500;2300;135400
+1994;Storm;MOZ;Mozambique;1;240;2000;2000000;500000;2502000;
+1994;Storm;SOM;Somalia;1;30;;;;;
+1994;Storm;ZAF;South Africa;1;2;;;2000;2000;
+1994;Storm;TZA;Tanzania, United Republic of;1;4;;;2500;2500;
+1994;Wildfire;DZA;Algeria;1;22;;;;;
+1995;Drought;BFA;Burkina Faso;1;;;75590;;75590;
+1995;Drought;NAM;Namibia;1;;;163200;;163200;
+1995;Drought;ZAF;South Africa;1;;;300000;;300000;
+1995;Drought;ZMB;Zambia;1;;;1273204;;1273204;
+1995;Earthquake;EGY;Egypt;1;10;69;;;69;
+1995;Epidemic;AGO;Angola;1;;;1007;;1007;
+1995;Epidemic;COD;Congo (the Democratic Republic of the);1;233;;;;;
+1995;Epidemic;CIV;Côte d’Ivoire;1;150;;2027;;2027;
+1995;Epidemic;LBR;Liberia;1;9;;359;;359;
+1995;Epidemic;NER;Niger (the);1;3022;;63691;;63691;
+1995;Epidemic;SEN;Senegal;1;188;;3031;;3031;
+1995;Extreme temperature ;EGY;Egypt;1;32;;;;;
+1995;Flood;BEN;Benin;1;20;;115000;8000;123000;3100
+1995;Flood;BWA;Botswana;1;20;;3500;2000;5500;
+1995;Flood;CAF;Central African Republic;1;;;1957;1957;3914;
+1995;Flood;TCD;Chad;1;2;;40343;40343;80686;
+1995;Flood;EGY;Egypt;1;7;;;3000;3000;
+1995;Flood;ETH;Ethiopia;1;27;;93875;;93875;500
+1995;Flood;GHA;Ghana;1;145;;500000;200000;700000;12500
+1995;Flood;LBY;Libya;1;;;;;;42200
+1995;Flood;MWI;Malawi;2;1;;;1300;1300;
+1995;Flood;MRT;Mauritania;1;;;408;192;600;
+1995;Flood;MAR;Morocco;3;791;;38000;;38000;9000
+1995;Flood;SOM;Somalia;1;20;;8500;;8500;
+1995;Flood;ZAF;South Africa;1;207;;4500;;4500;10000
+1995;Flood;TZA;Tanzania, United Republic of;2;3;;1850;20000;21850;
+1995;Flood;TGO;Togo;2;3;;110000;75000;185000;
+1995;Insect infestation;ERI;Eritrea;1;;;;;;
+1995;Storm;DJI;Djibouti;1;;;775;;775;
+1995;Storm;LBR;Liberia;1;;;;2000;2000;
+1995;Volcanic activity;CPV;Cabo Verde;1;;6;1300;5000;6306;
+1995;Wildfire;CAF;Central African Republic;1;;;85;;85;
+1996;Drought;DJI;Djibouti;1;;;100000;;100000;
+1996;Drought;RWA;Rwanda;1;;;82000;;82000;
+1996;Drought;SDN;Sudan (the);1;;;160000;;160000;
+1996;Drought;TZA;Tanzania, United Republic of;1;;;3000000;;3000000;
+1996;Epidemic;BEN;Benin;1;65;;21;;21;
+1996;Epidemic;BFA;Burkina Faso;2;4135;;40967;;40967;
+1996;Epidemic;CMR;Cameroon;1;378;;2825;;2825;
+1996;Epidemic;TCD;Chad;1;94;;1317;;1317;
+1996;Epidemic;COD;Congo (the Democratic Republic of the);2;202;;1954;;1954;
+1996;Epidemic;GAB;Gabon;1;45;;15;;15;
+1996;Epidemic;GHA;Ghana;1;411;;3757;;3757;
+1996;Epidemic;GNB;Guinea-Bissau;1;961;;26967;;26967;
+1996;Epidemic;LBR;Liberia;1;56;;;;;
+1996;Epidemic;MLI;Mali;2;345;;2208;;2208;
+1996;Epidemic;MRT;Mauritania;1;46;;;;;
+1996;Epidemic;NER;Niger (the);2;882;;10475;;10475;
+1996;Epidemic;NGA;Nigeria;2;5539;;42586;;42586;
+1996;Epidemic;RWA;Rwanda;1;10;;106;;106;
+1996;Epidemic;SLE;Sierra Leone;3;226;;953;;953;
+1996;Epidemic;SOM;Somalia;1;247;;5557;;5557;
+1996;Epidemic;SDN;Sudan (the);1;700;;1800;;1800;
+1996;Epidemic;SWZ;Swaziland;1;80;;;;;
+1996;Epidemic;TGO;Togo;2;360;;2619;;2619;
+1996;Epidemic;UGA;Uganda;1;20;;;;;
+1996;Epidemic;ZWE;Zimbabwe;1;1311;;500000;;500000;
+1996;Extreme temperature ;EGY;Egypt;1;22;;;;;
+1996;Extreme temperature ;ZAF;South Africa;1;30;;;;;
+1996;Flood;DZA;Algeria;1;4;101;;;101;
+1996;Flood;BEN;Benin;1;11;;147901;826;148727;
+1996;Flood;CAF;Central African Republic;1;7;;16000;1500;17500;
+1996;Flood;CIV;Côte d’Ivoire;1;28;;;;;
+1996;Flood;EGY;Egypt;1;12;;260;;260;
+1996;Flood;ETH;Ethiopia;2;40;;90000;25000;115000;
+1996;Flood;GMB;Gambia (the);1;;;4000;;4000;
+1996;Flood;KEN;Kenya;1;;;;1000;1000;
+1996;Flood;MAR;Morocco;1;25;;60000;;60000;55000
+1996;Flood;SLE;Sierra Leone;1;12;;200000;;200000;
+1996;Flood;SOM;Somalia;1;3;;100;;100;
+1996;Flood;ZAF;South Africa;2;34;30;7000;500;7530;6860
+1996;Flood;SDN;Sudan (the);3;152;18500;46200;55700;120400;
+1996;Landslide;ZAF;South Africa;1;34;;;;;
+1996;Storm;LSO;Lesotho;2;;;230;20;250;
+1996;Storm;MDG;Madagascar;1;9;;100000;;100000;
+1996;Storm;MUS;Mauritius;1;3;;;;;
+1996;Storm;MAR;Morocco;1;14;;;;;
+1996;Storm;MOZ;Mozambique;1;11;;200000;;200000;14500
+1997;Drought;AGO;Angola;1;;;105000;;105000;
+1997;Drought;TCD;Chad;1;;;356000;;356000;
+1997;Drought;ETH;Ethiopia;1;;;986200;;986200;
+1997;Drought;KEN;Kenya;1;;;1600000;;1600000;
+1997;Drought;MRT;Mauritania;1;;;21400;;21400;
+1997;Drought;NER;Niger (the);1;;;8500;;8500;
+1997;Earthquake;ZAF;South Africa;1;15;46;;;46;
+1997;Epidemic;DZA;Algeria;1;1;;364;;364;
+1997;Epidemic;BEN;Benin;1;47;;226;;226;
+1997;Epidemic;BFA;Burkina Faso;1;2274;;17996;;17996;
+1997;Epidemic;BDI;Burundi;2;21;;24350;;24350;
+1997;Epidemic;CMR;Cameroon;2;109;;479;;479;
+1997;Epidemic;TCD;Chad;1;239;;2835;;2835;
+1997;Epidemic;COD;Congo (the Democratic Republic of the);3;54;;1411;;1411;
+1997;Epidemic;COG;Congo (the);1;83;;485;;485;
+1997;Epidemic;DJI;Djibouti;1;29;;827;;827;
+1997;Epidemic;GMB;Gambia (the);1;120;;793;;793;
+1997;Epidemic;GHA;Ghana;1;26;;159;;159;
+1997;Epidemic;GNB;Guinea-Bissau;1;781;;22299;;22299;
+1997;Epidemic;KEN;Kenya;4;1232;;33036;;33036;
+1997;Epidemic;MWI;Malawi;2;10;;622;;622;
+1997;Epidemic;MLI;Mali;1;1098;;9666;;9666;
+1997;Epidemic;MOZ;Mozambique;3;637;;27201;;27201;
+1997;Epidemic;NER;Niger (the);2;262;;2156;;2156;
+1997;Epidemic;SLE;Sierra Leone;2;51;;2024;;2024;
+1997;Epidemic;SOM;Somalia;2;500;;1044;;1044;
+1997;Epidemic;TZA;Tanzania, United Republic of;2;2329;;42350;;42350;
+1997;Epidemic;UGA;Uganda;2;;;100300;;100300;
+1997;Flood;DZA;Algeria;1;4;;;3000;3000;
+1997;Flood;BEN;Benin;1;;;51000;;51000;
+1997;Flood;COD;Congo (the Democratic Republic of the);1;;;26000;9506;35506;
+1997;Flood;EGY;Egypt;1;4;;;;;1000
+1997;Flood;ETH;Ethiopia;2;326;22;65000;;65022;
+1997;Flood;KEN;Kenya;1;86;;900000;;900000;11800
+1997;Flood;MWI;Malawi;1;;;400000;;400000;
+1997;Flood;MAR;Morocco;1;60;;;;;
+1997;Flood;MOZ;Mozambique;1;35;;400000;;400000;
+1997;Flood;SYC;Seychelles;1;5;2;1125;110;1237;1700
+1997;Flood;SOM;Somalia;2;2311;;1002000;230000;1232000;
+1997;Flood;ZAF;South Africa;1;;7;300;;307;
+1997;Flood;SDN;Sudan (the);1;8;;100000;;100000;
+1997;Flood;TZA;Tanzania, United Republic of;2;83;;8028;2104;10132;
+1997;Flood;UGA;Uganda;1;100;;150000;3500;153500;1000
+1997;Insect infestation;MDG;Madagascar;1;;;;;;3500
+1997;Landslide;UGA;Uganda;1;20;;;;;
+1997;Storm;EGY;Egypt;1;18;60;;;60;1000
+1997;Storm;MDG;Madagascar;2;174;;520000;80000;600000;50000
+1997;Storm;MOZ;Mozambique;1;;;;;;50
+1997;Wildfire;TZA;Tanzania, United Republic of;1;;;;;;
+1998;Complex Disasters;SDN;Sudan (the);1;;;2600000;;2600000;
+1998;Drought;BFA;Burkina Faso;1;;;20700;;20700;
+1998;Drought;CPV;Cabo Verde;1;;;10000;;10000;
+1998;Drought;ETH;Ethiopia;1;;;;;;15600
+1998;Drought;GIN;Guinea;1;12;;;;;
+1998;Drought;MOZ;Mozambique;1;;;;;;
+1998;Drought;NAM;Namibia;1;;;25000;;25000;1000
+1998;Drought;UGA;Uganda;1;;;126000;;126000;1600
+1998;Drought;ZWE;Zimbabwe;1;;;55000;;55000;
+1998;Epidemic;AGO;Angola;1;115;;1113;;1113;
+1998;Epidemic;BEN;Benin;1;78;;527;;527;
+1998;Epidemic;BFA;Burkina Faso;1;26;;441;;441;
+1998;Epidemic;CMR;Cameroon;2;239;;2086;;2086;
+1998;Epidemic;COM;Comoros (the);1;40;;3200;;3200;
+1998;Epidemic;COD;Congo (the Democratic Republic of the);5;1002;;13884;;13884;
+1998;Epidemic;DJI;Djibouti;1;43;;2000;;2000;
+1998;Epidemic;GHA;Ghana;1;67;;1546;;1546;
+1998;Epidemic;KEN;Kenya;1;27;;1025;;1025;
+1998;Epidemic;LBR;Liberia;1;12;;560;;560;
+1998;Epidemic;MRT;Mauritania;1;6;;344;;344;
+1998;Epidemic;MOZ;Mozambique;2;209;;2600;;2600;
+1998;Epidemic;NGA;Nigeria;1;39;;211;;211;
+1998;Epidemic;RWA;Rwanda;1;55;;2951;;2951;
+1998;Epidemic;SEN;Senegal;1;372;;2709;;2709;
+1998;Epidemic;SLE;Sierra Leone;1;55;;1770;;1770;
+1998;Epidemic;SOM;Somalia;2;481;;14564;;14564;
+1998;Epidemic;SDN;Sudan (the);4;3119;;22403;;22403;
+1998;Epidemic;TZA;Tanzania, United Republic of;2;2461;;40677;;40677;
+1998;Epidemic;TGO;Togo;1;239;;3669;;3669;
+1998;Epidemic;UGA;Uganda;1;30;;600;;600;
+1998;Epidemic;ZWE;Zimbabwe;2;22;;377;;377;
+1998;Flood;BEN;Benin;1;;;400000;20000;420000;
+1998;Flood;CAF;Central African Republic;1;;;;9200;9200;
+1998;Flood;TCD;Chad;1;;;;1000;1000;
+1998;Flood;COG;Congo (the);1;;;20000;;20000;59
+1998;Flood;KEN;Kenya;1;40;;;200;200;
+1998;Flood;LBR;Liberia;1;10;;5000;;5000;
+1998;Flood;MDG;Madagascar;1;;;20000;;20000;
+1998;Flood;MWI;Malawi;1;4;;15000;;15000;89
+1998;Flood;MLI;Mali;2;3;;1784;4650;6434;
+1998;Flood;NER;Niger (the);1;;;;20000;20000;
+1998;Flood;NGA;Nigeria;2;15;;;107000;107000;
+1998;Flood;SEN;Senegal;1;;;300000;;300000;
+1998;Flood;SDN;Sudan (the);1;103;;900000;100000;1000000;40000
+1998;Flood;TZA;Tanzania, United Republic of;2;61;;4600;;4600;
+1998;Flood;TGO;Togo;1;;;30405;;30405;
+1998;Flood;UGA;Uganda;1;;;13000;2200;15200;
+1998;Flood;ZMB;Zambia;1;;;1300000;;1300000;20700
+1998;Flood;ZWE;Zimbabwe;1;36;;;;;
+1998;Insect infestation;CMR;Cameroon;1;;;;;;1700
+1998;Landslide;MOZ;Mozambique;1;87;;;2500;2500;
+1998;Storm;ZAF;South Africa;1;18;160;;;160;165000
+1998;Wildfire;GNB;Guinea-Bissau;1;3;;1200;300;1500;
+1998;Wildfire;ZAF;South Africa;1;25;;;;;
+1998;Wildfire;SDN;Sudan (the);1;47;;;;;
+1999;Drought;BDI;Burundi;1;6;;650000;;650000;
+1999;Drought;ERI;Eritrea;1;;;2300000;;2300000;
+1999;Drought;ETH;Ethiopia;1;;;4900000;;4900000;
+1999;Drought;KEN;Kenya;1;85;;23000000;;23000000;
+1999;Drought;MUS;Mauritius;1;;;;;;175000
+1999;Drought;MAR;Morocco;1;;;275000;;275000;900000
+1999;Drought;RWA;Rwanda;1;;;894545;;894545;
+1999;Drought;UGA;Uganda;1;115;;700000;;700000;
+1999;Earthquake;DZA;Algeria;1;22;175;;15000;15175;60929
+1999;Epidemic;AGO;Angola;2;188;;873;;873;
+1999;Epidemic;BEN;Benin;1;9;;241;;241;
+1999;Epidemic;BDI;Burundi;2;80;;616434;;616434;
+1999;Epidemic;CMR;Cameroon;1;14;;105;;105;
+1999;Epidemic;CAF;Central African Republic;1;14;;86;;86;
+1999;Epidemic;COM;Comoros (the);1;14;;140;;140;
+1999;Epidemic;COD;Congo (the Democratic Republic of the);1;3;;72;;72;
+1999;Epidemic;COG;Congo (the);1;15;;99;;99;
+1999;Epidemic;ETH;Ethiopia;1;9;;276;;276;
+1999;Epidemic;GHA;Ghana;3;24;;1196;;1196;
+1999;Epidemic;GIN;Guinea;1;12;;123;;123;
+1999;Epidemic;GNB;Guinea-Bissau;1;404;;2169;;2169;
+1999;Epidemic;KEN;Kenya;3;1814;;329570;;329570;
+1999;Epidemic;LSO;Lesotho;1;28;;1862;;1862;
+1999;Epidemic;LBR;Liberia;1;39;;;;;
+1999;Epidemic;MDG;Madagascar;2;981;;18228;;18228;
+1999;Epidemic;NER;Niger (the);2;49;;741;;741;
+1999;Epidemic;NGA;Nigeria;5;516;;2977;;2977;
+1999;Epidemic;RWA;Rwanda;3;76;;488;;488;
+1999;Epidemic;SLE;Sierra Leone;2;133;;3228;;3228;
+1999;Epidemic;SOM;Somalia;1;15;;175;;175;
+1999;Epidemic;SDN;Sudan (the);3;357;;3959;;3959;
+1999;Epidemic;TZA;Tanzania, United Republic of;1;56;;529;;529;
+1999;Epidemic;UGA;Uganda;3;137;;2205;;2205;
+1999;Epidemic;ZMB;Zambia;4;462;;13083;;13083;
+1999;Epidemic;ZWE;Zimbabwe;2;52;;462;;462;
+1999;Flood;DZA;Algeria;1;12;2;;700;702;
+1999;Flood;BEN;Benin;1;3;;47000;10469;57469;215
+1999;Flood;BFA;Burkina Faso;1;6;;800;760;1560;
+1999;Flood;CMR;Cameroon;1;24;;;1000;1000;
+1999;Flood;CAF;Central African Republic;2;;;20000;25919;45919;
+1999;Flood;TCD;Chad;1;;;128506;45000;173506;
+1999;Flood;COD;Congo (the Democratic Republic of the);1;2;;65000;13000;78000;
+1999;Flood;COG;Congo (the);1;2;;40000;2000;42000;
+1999;Flood;ETH;Ethiopia;6;48;;22255;125000;147255;2700
+1999;Flood;GMB;Gambia (the);1;53;;27000;5000;32000;
+1999;Flood;GHA;Ghana;1;52;29;291573;33000;324602;21000
+1999;Flood;MWI;Malawi;1;;;2000;;2000;
+1999;Flood;MLI;Mali;1;2;;2000;200;2200;
+1999;Flood;MRT;Mauritania;2;;;3800;20000;23800;
+1999;Flood;MOZ;Mozambique;1;23;;70000;;70000;12400
+1999;Flood;NER;Niger (the);2;14;;11606;12789;24395;
+1999;Flood;NGA;Nigeria;3;89;;80000;37000;117000;
+1999;Flood;ZAF;South Africa;2;27;;2300;;2300;19600
+1999;Flood;SDN;Sudan (the);4;38;;235841;45000;280841;
+1999;Flood;TGO;Togo;1;;;65000;;65000;
+1999;Storm;BDI;Burundi;1;;;30810;;30810;
+1999;Storm;MRT;Mauritania;1;1;17;;160;177;
+1999;Storm;MUS;Mauritius;1;;1000;;;1000;
+1999;Storm;NGA;Nigeria;1;100;;;;;
+1999;Storm;SEN;Senegal;2;187;;65853;30000;95853;
+1999;Storm;SLE;Sierra Leone;1;13;3;;;3;
+1999;Storm;ZAF;South Africa;2;26;480;13000;5300;18780;25000
+1999;Volcanic activity;CMR;Cameroon;1;;;2500;510;3010;
+1999;Wildfire;ZAF;South Africa;1;4;5;;3000;3005;
+2000;Drought;MDG;Madagascar;1;;;231290;;231290;
+2000;Drought;SOM;Somalia;1;21;;1200000;;1200000;
+2000;Drought;SDN;Sudan (the);1;;;2000000;;2000000;
+2000;Earthquake;TZA;Tanzania, United Republic of;1;1;6;750;35;791;
+2000;Epidemic;AGO;Angola;1;18;;117;;117;
+2000;Epidemic;BEN;Benin;3;351;;7762;;7762;
+2000;Epidemic;BDI;Burundi;3;308;100;730591;;730691;
+2000;Epidemic;CMR;Cameroon;1;22;;65;;65;
+2000;Epidemic;CAF;Central African Republic;3;448;;2572;;2572;
+2000;Epidemic;TCD;Chad;2;1209;;9673;;9673;
+2000;Epidemic;COD;Congo (the Democratic Republic of the);2;26;;63;;63;
+2000;Epidemic;COG;Congo (the);1;24;;;;;
+2000;Epidemic;DJI;Djibouti;1;4;;419;;419;
+2000;Epidemic;ETH;Ethiopia;5;422;;7033;;7033;
+2000;Epidemic;GMB;Gambia (the);1;21;;116;;116;
+2000;Epidemic;GIN;Guinea;1;190;;322;;322;
+2000;Epidemic;KEN;Kenya;5;50;;721;;721;
+2000;Epidemic;LSO;Lesotho;1;28;;1834;;1834;
+2000;Epidemic;LBR;Liberia;2;13;;112;;112;
+2000;Epidemic;MWI;Malawi;1;83;;3323;;3323;
+2000;Epidemic;MOZ;Mozambique;2;11;;18583;;18583;
+2000;Epidemic;NAM;Namibia;1;14;;58;;58;
+2000;Epidemic;NER;Niger (the);3;190;;1151;;1151;
+2000;Epidemic;NGA;Nigeria;3;99;;1255;;1255;
+2000;Epidemic;RWA;Rwanda;1;10;;164;;164;
+2000;Epidemic;SLE;Sierra Leone;1;38;;;;;
+2000;Epidemic;SOM;Somalia;4;688;;2490;;2490;
+2000;Epidemic;ZAF;South Africa;1;181;;86107;;86107;
+2000;Epidemic;SDN;Sudan (the);1;186;;2363;;2363;
+2000;Epidemic;SWZ;Swaziland;1;32;;1449;;1449;
+2000;Epidemic;TZA;Tanzania, United Republic of;4;37;;898;;898;
+2000;Epidemic;UGA;Uganda;3;259;;723;;723;
+2000;Epidemic;ZMB;Zambia;2;163;;1224;;1224;
+2000;Epidemic;ZWE;Zimbabwe;3;112;;2812;;2812;
+2000;Extreme temperature ;EGY;Egypt;1;3;105;;;105;
+2000;Extreme temperature ;MAR;Morocco;1;;;;;;809
+2000;Flood;DZA;Algeria;4;44;5;100;100;205;
+2000;Flood;AGO;Angola;4;46;11;70000;9000;79011;10000
+2000;Flood;BWA;Botswana;1;3;;106776;32000;138776;5000
+2000;Flood;BDI;Burundi;1;;;;500;500;
+2000;Flood;CMR;Cameroon;1;3;;500;;500;
+2000;Flood;ETH;Ethiopia;2;69;;30000;;30000;
+2000;Flood;MWI;Malawi;1;;;20000;;20000;1000
+2000;Flood;MLI;Mali;1;15;;;;;
+2000;Flood;MAR;Morocco;2;6;;950;;950;
+2000;Flood;MOZ;Mozambique;1;800;;4500000;;4500000;419200
+2000;Flood;NAM;Namibia;1;;;5000;;5000;
+2000;Flood;NER;Niger (the);1;2;3;4156;;4159;
+2000;Flood;NGA;Nigeria;6;4;;500;5000;5500;6705
+2000;Flood;SEN;Senegal;1;;;;;;
+2000;Flood;SOM;Somalia;3;;;153500;220000;373500;
+2000;Flood;ZAF;South Africa;3;93;;3000;200;3200;160000
+2000;Flood;SWZ;Swaziland;1;;;272000;;272000;50
+2000;Flood;TZA;Tanzania, United Republic of;1;36;17;;1800;1817;
+2000;Flood;ZMB;Zambia;1;;;12000;;12000;
+2000;Flood;ZWE;Zimbabwe;1;70;;200000;66000;266000;72900
+2000;Landslide;AGO;Angola;1;13;;;;;
+2000;Landslide;ETH;Ethiopia;1;4;;;165;165;
+2000;Landslide;NGA;Nigeria;2;32;;;300;300;
+2000;Storm;DZA;Algeria;1;4;10;;;10;
+2000;Storm;GIN;Guinea;1;4;;;;;
+2000;Storm;MDG;Madagascar;2;153;1;1106208;;1106209;9000
+2000;Storm;MOZ;Mozambique;4;32;4;350;1050;1404;1000
+2000;Storm;NGA;Nigeria;1;;;;1000;1000;
+2000;Storm;REU;Réunion;1;2;;;600;600;
+2000;Storm;ZAF;South Africa;1;1;100;;200;300;
+2000;Storm;UGA;Uganda;2;;5;;10000;10005;
+2000;Wildfire;ETH;Ethiopia;1;;5;;;5;
+2000;Wildfire;ZAF;South Africa;1;;;1000;250;1250;10000
+2001;Drought;AGO;Angola;1;58;;;;;
+2001;Drought;BFA;Burkina Faso;1;;;;;;
+2001;Drought;CMR;Cameroon;1;;;;;;
+2001;Drought;TCD;Chad;1;;;800000;;800000;
+2001;Drought;DJI;Djibouti;1;;;100000;;100000;
+2001;Drought;MLI;Mali;1;;;;;;
+2001;Drought;MRT;Mauritania;1;;;1000000;;1000000;
+2001;Drought;MOZ;Mozambique;1;;;100000;;100000;
+2001;Drought;NAM;Namibia;1;;;;;;
+2001;Drought;NER;Niger (the);1;;;3584558;;3584558;
+2001;Drought;SWZ;Swaziland;1;;;970000;;970000;
+2001;Drought;ZWE;Zimbabwe;1;;;6000000;;6000000;
+2001;Earthquake;TZA;Tanzania, United Republic of;1;;;;700;700;
+2001;Epidemic;AGO;Angola;2;39;;420;;420;
+2001;Epidemic;BEN;Benin;3;378;;9760;;9760;
+2001;Epidemic;BFA;Burkina Faso;3;2978;;20820;;20820;
+2001;Epidemic;CMR;Cameroon;2;31;;542;;542;
+2001;Epidemic;CAF;Central African Republic;1;343;;1473;;1473;
+2001;Epidemic;TCD;Chad;1;113;;3444;;3444;
+2001;Epidemic;COD;Congo (the Democratic Republic of the);8;838;;11094;;11094;
+2001;Epidemic;COG;Congo (the);1;19;;13;;13;
+2001;Epidemic;CIV;Côte d’Ivoire;2;196;;3180;;3180;
+2001;Epidemic;ETH;Ethiopia;2;429;;8166;;8166;
+2001;Epidemic;GAB;Gabon;1;50;;10;;10;
+2001;Epidemic;GHA;Ghana;2;12;;1141;;1141;
+2001;Epidemic;GIN;Guinea;1;12;;143;;143;
+2001;Epidemic;KEN;Kenya;4;40;;743;;743;
+2001;Epidemic;MWI;Malawi;3;1131;;40266;;40266;
+2001;Epidemic;MOZ;Mozambique;1;7;;611;;611;
+2001;Epidemic;NAM;Namibia;1;134;;12098;;12098;
+2001;Epidemic;NER;Niger (the);3;573;;48067;;48067;
+2001;Epidemic;NGA;Nigeria;5;544;;2636;;2636;
+2001;Epidemic;SLE;Sierra Leone;1;12;;3;;3;
+2001;Epidemic;SOM;Somalia;1;33;;111;;111;
+2001;Epidemic;TZA;Tanzania, United Republic of;2;25;;515;;515;
+2001;Epidemic;TGO;Togo;2;235;;1567;;1567;
+2001;Epidemic;UGA;Uganda;1;14;;9;;9;
+2001;Epidemic;ZMB;Zambia;1;11;;425;;425;
+2001;Flood;DZA;Algeria;1;921;423;45000;;45423;300000
+2001;Flood;AGO;Angola;2;57;5;39928;;39933;
+2001;Flood;CMR;Cameroon;1;30;;;1500;1500;
+2001;Flood;TCD;Chad;1;100;;175763;;175763;1000
+2001;Flood;COD;Congo (the Democratic Republic of the);2;50;26;13000;;13026;
+2001;Flood;ETH;Ethiopia;3;5;;39500;;39500;
+2001;Flood;GMB;Gambia (the);1;1;;250;;250;
+2001;Flood;GHA;Ghana;1;12;25;139000;5000;144025;
+2001;Flood;GIN;Guinea;1;9;;220000;;220000;
+2001;Flood;KEN;Kenya;1;4;;;;;38
+2001;Flood;MWI;Malawi;2;59;;508750;;508750;6700
+2001;Flood;MLI;Mali;1;2;;3500;;3500;
+2001;Flood;MRT;Mauritania;1;;;;3000;3000;
+2001;Flood;MAR;Morocco;1;15;;300;;300;2200
+2001;Flood;MOZ;Mozambique;2;79;;749326;;749326;36000
+2001;Flood;NER;Niger (the);1;4;;20000;;20000;
+2001;Flood;NGA;Nigeria;3;200;50;84065;5802;89917;3000
+2001;Flood;RWA;Rwanda;2;12;;3000;;3000;
+2001;Flood;SOM;Somalia;1;;;6500;;6500;
+2001;Flood;ZAF;South Africa;2;5;12;42656;;42668;
+2001;Flood;SDN;Sudan (the);1;3;;97000;;97000;2000
+2001;Flood;TZA;Tanzania, United Republic of;1;5;;;200;200;
+2001;Flood;UGA;Uganda;2;1;;500;300;800;
+2001;Flood;ZMB;Zambia;1;5;;617900;;617900;
+2001;Flood;ZWE;Zimbabwe;1;13;;30000;;30000;3600
+2001;Landslide;COD;Congo (the Democratic Republic of the);1;12;;;;;
+2001;Landslide;TZA;Tanzania, United Republic of;1;13;;;150;150;
+2001;Landslide;UGA;Uganda;1;11;10;3356;;3366;
+2001;Storm;CAF;Central African Republic;1;3;;;3000;3000;
+2001;Storm;LSO;Lesotho;2;1;1;1000;1000;2001;
+2001;Storm;SHN;Saint Helena, Ascension and Tristan da Cunha;1;;;300;;300;
+2001;Storm;ZAF;South Africa;2;14;40;;600;640;
+2001;Volcanic activity;COD;Congo (the Democratic Republic of the);1;;;;;;
+2001;Wildfire;ZAF;South Africa;2;31;;;;;
+2002;Drought;CPV;Cabo Verde;1;;;30000;;30000;
+2002;Drought;GMB;Gambia (the);1;;;;;;
+2002;Drought;GNB;Guinea-Bissau;1;;;100000;;100000;
+2002;Drought;LSO;Lesotho;1;;;500000;;500000;
+2002;Drought;MDG;Madagascar;1;;;600000;;600000;
+2002;Drought;MWI;Malawi;1;500;;2829435;;2829435;
+2002;Drought;MOZ;Mozambique;1;9;;600000;;600000;
+2002;Drought;NAM;Namibia;1;;;345000;;345000;
+2002;Drought;SEN;Senegal;1;;;284000;;284000;
+2002;Drought;UGA;Uganda;1;79;;655000;;655000;
+2002;Earthquake;EGY;Egypt;1;;;250;;250;
+2002;Earthquake;RWA;Rwanda;1;45;108;1535;;1643;
+2002;Earthquake;TZA;Tanzania, United Republic of;1;2;;;2000;2000;
+2002;Epidemic;BEN;Benin;1;50;;452;;452;
+2002;Epidemic;BDI;Burundi;3;87;;2163;;2163;
+2002;Epidemic;CAF;Central African Republic;1;6;;727;;727;
+2002;Epidemic;COD;Congo (the Democratic Republic of the);9;2502;;539375;;539375;
+2002;Epidemic;COG;Congo (the);1;128;;15;;15;
+2002;Epidemic;CIV;Côte d’Ivoire;3;77;;861;;861;
+2002;Epidemic;ETH;Ethiopia;1;12;;;;;
+2002;Epidemic;GIN;Guinea;1;23;;123;;123;
+2002;Epidemic;LBR;Liberia;1;;;661;;661;
+2002;Epidemic;MDG;Madagascar;1;671;;21975;;21975;
+2002;Epidemic;MWI;Malawi;2;216;;773;;773;
+2002;Epidemic;MLI;Mali;1;33;;282;;282;
+2002;Epidemic;MOZ;Mozambique;1;17;;2028;;2028;
+2002;Epidemic;NER;Niger (the);2;316;;3306;;3306;
+2002;Epidemic;NGA;Nigeria;7;255;;3903;;3903;
+2002;Epidemic;RWA;Rwanda;1;83;;636;;636;
+2002;Epidemic;SEN;Senegal;2;18;;181;;181;
+2002;Epidemic;SOM;Somalia;2;93;;1191;;1191;
+2002;Epidemic;ZAF;South Africa;3;84;;13352;;13352;
+2002;Epidemic;SDN;Sudan (the);2;49;;1281;;1281;
+2002;Epidemic;TZA;Tanzania, United Republic of;1;9;;149;;149;
+2002;Epidemic;TGO;Togo;1;95;;494;;494;
+2002;Epidemic;ZWE;Zimbabwe;2;4;;452;;452;
+2002;Extreme temperature ;NGA;Nigeria;1;60;;;;;
+2002;Flood;DZA;Algeria;3;48;20;2285;;2305;1500
+2002;Flood;AGO;Angola;1;8;;;;;
+2002;Flood;BDI;Burundi;2;;;8000;;8000;
+2002;Flood;COD;Congo (the Democratic Republic of the);1;40;40;2500;;2540;
+2002;Flood;COG;Congo (the);1;;;5000;48000;53000;
+2002;Flood;EGY;Egypt;2;18;70;800;;870;
+2002;Flood;ETH;Ethiopia;1;22;;4000;;4000;
+2002;Flood;GHA;Ghana;2;4;;2200;;2200;
+2002;Flood;KEN;Kenya;4;85;8;175000;;175008;
+2002;Flood;MWI;Malawi;2;9;;396340;;396340;
+2002;Flood;MLI;Mali;1;2;;22519;;22519;
+2002;Flood;MRT;Mauritania;1;25;;27500;;27500;
+2002;Flood;MAR;Morocco;1;80;17;15000;;15017;200000
+2002;Flood;MOZ;Mozambique;1;;;;500;500;
+2002;Flood;NGA;Nigeria;1;;;;200;200;
+2002;Flood;RWA;Rwanda;1;69;;20000;;20000;
+2002;Flood;SEN;Senegal;1;28;;179000;;179000;40979
+2002;Flood;SOM;Somalia;1;;;;;;
+2002;Flood;ZAF;South Africa;1;16;;2500;;2500;
+2002;Flood;SDN;Sudan (the);1;;;100000;;100000;
+2002;Flood;TZA;Tanzania, United Republic of;1;9;;1200;;1200;
+2002;Flood;UGA;Uganda;2;17;;760;100;860;
+2002;Landslide;KEN;Kenya;1;16;;;;;
+2002;Storm;MDG;Madagascar;3;23;1200;521900;5000;528100;181
+2002;Storm;MUS;Mauritius;1;3;50;;1000;1050;50000
+2002;Storm;MOZ;Mozambique;1;3;17;;4000;4017;
+2002;Storm;NER;Niger (the);1;4;3;1250;;1253;
+2002;Storm;REU;Réunion;1;;300;;2800;3100;50000
+2002;Storm;SYC;Seychelles;1;;;6800;;6800;
+2002;Storm;ZAF;South Africa;4;23;66;101150;;101216;14041
+2002;Storm;SDN;Sudan (the);1;33;;;;;
+2002;Storm;UGA;Uganda;1;;;;100;100;
+2002;Volcanic activity;COD;Congo (the Democratic Republic of the);1;200;400;;110000;110400;9000
+2002;Wildfire;CAF;Central African Republic;1;1;;;750;750;
+2002;Wildfire;ZAF;South Africa;1;3;500;;1000;1500;
+2003;Drought;BDI;Burundi;1;;;;;;
+2003;Drought;ETH;Ethiopia;1;;;12600000;;12600000;
+2003;Drought;MOZ;Mozambique;1;9;;119500;;119500;
+2003;Drought;RWA;Rwanda;1;;;1000000;;1000000;
+2003;Drought;TZA;Tanzania, United Republic of;1;;;1900000;;1900000;
+2003;Earthquake;DZA;Algeria;2;2275;10461;;200000;210461;5000000
+2003;Epidemic;BEN;Benin;1;3;;265;;265;
+2003;Epidemic;BFA;Burkina Faso;1;1058;;7146;;7146;
+2003;Epidemic;BDI;Burundi;1;6;;230;;230;
+2003;Epidemic;CAF;Central African Republic;1;23;;379;;379;
+2003;Epidemic;TCD;Chad;1;11;;131;;131;
+2003;Epidemic;COD;Congo (the Democratic Republic of the);3;786;;20401;;20401;
+2003;Epidemic;COG;Congo (the);1;29;;2;;2;
+2003;Epidemic;GIN;Guinea;1;24;;43;;43;
+2003;Epidemic;LBR;Liberia;2;;;19418;;19418;
+2003;Epidemic;MLI;Mali;1;106;;1216;;1216;
+2003;Epidemic;MOZ;Mozambique;4;159;;24134;;24134;
+2003;Epidemic;NER;Niger (the);1;195;;1861;;1861;
+2003;Epidemic;SLE;Sierra Leone;1;10;;90;;90;
+2003;Epidemic;ZAF;South Africa;1;1;;;;;
+2003;Epidemic;SDN;Sudan (the);1;27;;178;;178;
+2003;Epidemic;TGO;Togo;1;40;;790;;790;
+2003;Epidemic;UGA;Uganda;1;35;;242;;242;
+2003;Epidemic;ZMB;Zambia;1;179;;3835;;3835;
+2003;Epidemic;ZWE;Zimbabwe;1;40;;750;;750;
+2003;Extreme temperature ;DZA;Algeria;1;40;;;;;
+2003;Flood;DZA;Algeria;3;41;50;;;50;
+2003;Flood;AGO;Angola;2;15;;;825;825;
+2003;Flood;BFA;Burkina Faso;1;;;;12120;12120;
+2003;Flood;CAF;Central African Republic;1;;;;240;240;
+2003;Flood;COD;Congo (the Democratic Republic of the);2;1;;;1481;1481;
+2003;Flood;ERI;Eritrea;1;;;;;;
+2003;Flood;ETH;Ethiopia;1;119;;110000;;110000;
+2003;Flood;GNB;Guinea-Bissau;1;;;;;;
+2003;Flood;KEN;Kenya;2;40;;60300;;60300;
+2003;Flood;MDG;Madagascar;1;16;;19788;3582;23370;150000
+2003;Flood;MWI;Malawi;2;12;;18500;1000;19500;
+2003;Flood;MLI;Mali;1;;;;10000;10000;
+2003;Flood;MRT;Mauritania;1;9;;;21000;21000;
+2003;Flood;MAR;Morocco;1;35;;10000;;10000;
+2003;Flood;MOZ;Mozambique;3;38;3;515000;;515003;
+2003;Flood;NAM;Namibia;1;2;;12000;;12000;
+2003;Flood;NER;Niger (the);1;7;;30000;;30000;
+2003;Flood;NGA;Nigeria;1;16;;210000;;210000;2570
+2003;Flood;RWA;Rwanda;1;;16;;7000;7016;
+2003;Flood;SEN;Senegal;1;8;;1277;6492;7769;
+2003;Flood;SOM;Somalia;2;1;;300;;300;
+2003;Flood;ZAF;South Africa;1;1;;500;;500;
+2003;Flood;SDN;Sudan (the);1;20;56;325000;;325056;184000
+2003;Flood;TZA;Tanzania, United Republic of;1;;;2000;;2000;
+2003;Flood;TUN;Tunisia;2;12;;27000;;27000;
+2003;Flood;UGA;Uganda;2;25;;700;1500;2200;
+2003;Flood;ZMB;Zambia;2;4;;;11000;11000;
+2003;Flood;ZWE;Zimbabwe;1;2;;18000;;18000;200000
+2003;Landslide;CMR;Cameroon;1;20;;;100;100;
+2003;Storm;DZA;Algeria;1;13;;;;;
+2003;Storm;COM;Comoros (the);1;;;;300;300;
+2003;Storm;COD;Congo (the Democratic Republic of the);2;28;2573;;20000;22573;
+2003;Storm;GMB;Gambia (the);1;3;19;8000;;8019;
+2003;Storm;MDG;Madagascar;3;89;86;114641;48023;162750;
+2003;Storm;MOZ;Mozambique;1;11;10;23000;;23010;
+2003;Storm;ZAF;South Africa;1;;;;600;600;
+2003;Storm;ZWE;Zimbabwe;1;8;;;;;
+2004;Drought;AGO;Angola;1;;;25000;;25000;
+2004;Drought;KEN;Kenya;1;80;;2300000;;2300000;
+2004;Drought;SOM;Somalia;1;;;200000;;200000;
+2004;Drought;ZAF;South Africa;1;;;15000000;;15000000;
+2004;Drought;TZA;Tanzania, United Republic of;1;;;254000;;254000;
+2004;Earthquake;DZA;Algeria;2;;315;;;315;
+2004;Earthquake;BDI;Burundi;1;3;;;120;120;
+2004;Earthquake;KEN;Kenya;1;1;;;;;100000
+2004;Earthquake;MAR;Morocco;1;628;926;;12539;13465;400000
+2004;Earthquake;SYC;Seychelles;1;3;;4760;70;4830;30000
+2004;Earthquake;SOM;Somalia;1;298;283;104800;;105083;100000
+2004;Earthquake;TZA;Tanzania, United Republic of;1;10;;;;;
+2004;Epidemic;AGO;Angola;1;329;;45;;45;
+2004;Epidemic;BFA;Burkina Faso;1;527;;2783;;2783;
+2004;Epidemic;CMR;Cameroon;1;46;;2924;;2924;
+2004;Epidemic;TCD;Chad;2;144;;3567;;3567;
+2004;Epidemic;COD;Congo (the Democratic Republic of the);5;706;;46220;;46220;
+2004;Epidemic;EGY;Egypt;1;;;120;;120;
+2004;Epidemic;GNQ;Equatorial Guinea;1;15;;946;;946;
+2004;Epidemic;GAB;Gabon;1;1;;100;;100;
+2004;Epidemic;GIN;Guinea;1;100;;1092;;1092;
+2004;Epidemic;GNB;Guinea-Bissau;1;3;;199;;199;
+2004;Epidemic;KEN;Kenya;1;8;;141;;141;
+2004;Epidemic;NER;Niger (the);2;154;;20132;;20132;
+2004;Epidemic;NGA;Nigeria;3;172;;1897;;1897;
+2004;Epidemic;RWA;Rwanda;1;4;;540;;540;
+2004;Epidemic;SEN;Senegal;1;6;;861;;861;
+2004;Epidemic;SLE;Sierra Leone;1;56;;633;;633;
+2004;Epidemic;ZAF;South Africa;1;5;;174;;174;
+2004;Epidemic;SDN;Sudan (the);2;98;;8114;;8114;
+2004;Epidemic;UGA;Uganda;1;3;;53;;53;
+2004;Flood;DZA;Algeria;2;22;20;27545;;27565;
+2004;Flood;AGO;Angola;3;28;;332000;1700;333700;
+2004;Flood;BWA;Botswana;1;;;4960;;4960;
+2004;Flood;BDI;Burundi;1;;;;10000;10000;
+2004;Flood;CAF;Central African Republic;1;3;;;12698;12698;
+2004;Flood;DJI;Djibouti;1;51;;98500;1500;100000;
+2004;Flood;ERI;Eritrea;1;;13;7000;;7013;
+2004;Flood;GNB;Guinea-Bissau;1;3;;;1000;1000;
+2004;Flood;KEN;Kenya;2;54;;12000;;12000;
+2004;Flood;NAM;Namibia;2;;;25000;;25000;
+2004;Flood;NGA;Nigeria;5;94;600;29300;;29900;
+2004;Flood;SLE;Sierra Leone;1;10;;;;;
+2004;Flood;SOM;Somalia;1;;;;1500;1500;
+2004;Flood;ZAF;South Africa;1;;;;15000;15000;
+2004;Flood;UGA;Uganda;2;;;10000;20000;30000;
+2004;Flood;ZMB;Zambia;1;2;13;196385;;196398;
+2004;Insect infestation;BFA;Burkina Faso;1;;;;;;
+2004;Insect infestation;CPV;Cabo Verde;1;;;;;;
+2004;Insect infestation;TCD;Chad;1;;;;;;
+2004;Insect infestation;GMB;Gambia (the);1;;;;;;
+2004;Insect infestation;MLI;Mali;1;;;;;;
+2004;Insect infestation;MRT;Mauritania;1;;;;;;
+2004;Insect infestation;MAR;Morocco;1;;;;;;
+2004;Insect infestation;NER;Niger (the);1;;;;;;
+2004;Insect infestation;NGA;Nigeria;1;;;;;;
+2004;Insect infestation;SEN;Senegal;1;;;;;;
+2004;Insect infestation;SDN;Sudan (the);1;;;;;;
+2004;Storm;BDI;Burundi;2;;;;15500;15500;
+2004;Storm;EGY;Egypt;1;13;42;;;42;
+2004;Storm;GMB;Gambia (the);1;2;112;6025;;6137;
+2004;Storm;MDG;Madagascar;2;395;979;773000;258450;1032429;250000
+2004;Storm;SEN;Senegal;1;2;;;1000;1000;
+2004;Wildfire;GIN;Guinea;1;;;;777;777;
+2005;Drought;BDI;Burundi;1;120;;2150000;;2150000;
+2005;Drought;CMR;Cameroon;1;;;;;;
+2005;Drought;DJI;Djibouti;1;;;150000;;150000;
+2005;Drought;ETH;Ethiopia;1;;;2600000;;2600000;
+2005;Drought;KEN;Kenya;1;27;;3500000;;3500000;
+2005;Drought;MDG;Madagascar;1;;;14000;;14000;
+2005;Drought;MWI;Malawi;1;;;5100000;;5100000;
+2005;Drought;MLI;Mali;1;;;1000000;;1000000;
+2005;Drought;MOZ;Mozambique;1;;;1400000;;1400000;
+2005;Drought;NER;Niger (the);1;;;3000000;;3000000;
+2005;Drought;SOM;Somalia;1;2;;;;;
+2005;Drought;UGA;Uganda;1;;;600000;;600000;
+2005;Drought;ZMB;Zambia;1;;;1200000;;1200000;
+2005;Earthquake;COD;Congo (the Democratic Republic of the);1;6;5;;1500;1505;
+2005;Earthquake;ZAF;South Africa;1;2;58;;;58;20000
+2005;Earthquake;TZA;Tanzania, United Republic of;1;2;;5000;;5000;
+2005;Epidemic;BEN;Benin;1;4;;206;;206;
+2005;Epidemic;BFA;Burkina Faso;1;9;;606;;606;
+2005;Epidemic;CMR;Cameroon;1;42;;1400;;1400;
+2005;Epidemic;TCD;Chad;1;115;;6000;;6000;
+2005;Epidemic;COM;Comoros (the);1;;;1358;;1358;
+2005;Epidemic;COD;Congo (the Democratic Republic of the);3;101;;4872;;4872;
+2005;Epidemic;COG;Congo (the);1;10;;2;;2;
+2005;Epidemic;CIV;Côte d’Ivoire;1;40;;210;;210;
+2005;Epidemic;ETH;Ethiopia;2;74;;964;;964;
+2005;Epidemic;GHA;Ghana;1;40;;2248;;2248;
+2005;Epidemic;GIN;Guinea;1;72;;1884;;1884;
+2005;Epidemic;GNB;Guinea-Bissau;1;399;;25111;;25111;
+2005;Epidemic;KEN;Kenya;2;53;;1645;;1645;
+2005;Epidemic;LBR;Liberia;1;29;;674;;674;
+2005;Epidemic;MLI;Mali;2;43;;168;;168;
+2005;Epidemic;MRT;Mauritania;1;55;;2585;;2585;
+2005;Epidemic;NER;Niger (the);1;44;;387;;387;
+2005;Epidemic;NGA;Nigeria;4;719;;23873;;23873;
+2005;Epidemic;REU;Réunion;1;;;157000;;157000;
+2005;Epidemic;STP;Sao Tome and Principe;1;25;;1349;;1349;
+2005;Epidemic;SEN;Senegal;1;303;;23022;;23022;
+2005;Epidemic;SOM;Somalia;2;13;;199;;199;
+2005;Epidemic;SDN;Sudan (the);3;650;;7454;;7454;
+2005;Epidemic;TZA;Tanzania, United Republic of;1;6;;576;;576;
+2005;Epidemic;UGA;Uganda;2;21;;726;;726;
+2005;Epidemic;ZMB;Zambia;1;21;;7615;;7615;
+2005;Epidemic;ZWE;Zimbabwe;2;87;;1183;;1183;
+2005;Flood;DZA;Algeria;2;12;;70;1750;1820;7256
+2005;Flood;AGO;Angola;1;;;;10000;10000;
+2005;Flood;BDI;Burundi;1;;;;5000;5000;
+2005;Flood;CMR;Cameroon;1;2;;;;;
+2005;Flood;CAF;Central African Republic;1;1;7;;23798;23805;
+2005;Flood;COG;Congo (the);1;1;;;2000;2000;
+2005;Flood;ETH;Ethiopia;4;211;;242418;;242418;6200
+2005;Flood;KEN;Kenya;3;26;;36200;;36200;500
+2005;Flood;MDG;Madagascar;2;29;17;58700;900;59617;
+2005;Flood;MWI;Malawi;1;1;;;44500;44500;
+2005;Flood;MLI;Mali;2;;;;1860;1860;
+2005;Flood;MRT;Mauritania;1;;;7500;;7500;
+2005;Flood;MOZ;Mozambique;2;16;12;38825;9000;47837;
+2005;Flood;NGA;Nigeria;2;60;4;1000;3000;4004;147
+2005;Flood;SEN;Senegal;1;;;50000;;50000;
+2005;Flood;SLE;Sierra Leone;1;20;;15000;;15000;
+2005;Flood;SOM;Somalia;2;12;20;5000;2500;7520;20
+2005;Flood;SDN;Sudan (the);2;5;;156000;4780;160780;
+2005;Flood;TZA;Tanzania, United Republic of;1;1;;10548;;10548;
+2005;Flood;ZMB;Zambia;1;;;4000;;4000;
+2005;Storm;DZA;Algeria;1;10;5;;;5;
+2005;Storm;COD;Congo (the Democratic Republic of the);1;8;3;;5386;5389;
+2005;Storm;MDG;Madagascar;1;78;8;;7977;7985;
+2005;Storm;MWI;Malawi;1;11;8;;;8;
+2005;Storm;MAR;Morocco;1;1;;;;;50
+2005;Storm;SWZ;Swaziland;1;;;890;260;1150;
+2005;Volcanic activity;COM;Comoros (the);2;1;;284000;;284000;
+2005;Volcanic activity;ETH;Ethiopia;1;;;9000;;9000;
+2006;Drought;GNB;Guinea-Bissau;1;;;32000;;32000;
+2006;Drought;MLI;Mali;1;;;25000;;25000;
+2006;Drought;TZA;Tanzania, United Republic of;1;;;3700000;;3700000;
+2006;Earthquake;DZA;Algeria;1;4;9;160;150;319;
+2006;Earthquake;MOZ;Mozambique;1;4;36;;1440;1476;
+2006;Epidemic;AGO;Angola;2;2422;;57570;;57570;
+2006;Epidemic;BWA;Botswana;1;470;;22264;;22264;
+2006;Epidemic;BFA;Burkina Faso;1;784;;7402;;7402;
+2006;Epidemic;CMR;Cameroon;1;8;;71;;71;
+2006;Epidemic;TCD;Chad;1;20;;216;;216;
+2006;Epidemic;COM;Comoros (the);1;;;924;;924;
+2006;Epidemic;COD;Congo (the Democratic Republic of the);7;151;;2986;;2986;
+2006;Epidemic;COG;Congo (the);1;50;;3030;;3030;
+2006;Epidemic;CIV;Côte d’Ivoire;2;42;;451;;451;
+2006;Epidemic;EGY;Egypt;1;15;;23;;23;
+2006;Epidemic;ETH;Ethiopia;2;351;;32848;;32848;
+2006;Epidemic;GIN;Guinea;2;129;;298;;298;
+2006;Epidemic;KEN;Kenya;3;183;;588;;588;
+2006;Epidemic;MWI;Malawi;1;20;;852;;852;
+2006;Epidemic;MLI;Mali;1;9;;151;;151;
+2006;Epidemic;MUS;Mauritius;1;;;2553;;2553;
+2006;Epidemic;MOZ;Mozambique;1;27;;5692;;5692;
+2006;Epidemic;NAM;Namibia;1;10;;47;;47;
+2006;Epidemic;NER;Niger (the);2;62;;784;;784;
+2006;Epidemic;RWA;Rwanda;1;35;;300;;300;
+2006;Epidemic;SYC;Seychelles;1;;;5461;;5461;
+2006;Epidemic;SOM;Somalia;5;144;;5876;;5876;
+2006;Epidemic;SDN;Sudan (the);5;1142;;28769;;28769;
+2006;Epidemic;TZA;Tanzania, United Republic of;4;70;;1410;;1410;
+2006;Epidemic;UGA;Uganda;4;203;;5702;;5702;
+2006;Epidemic;ZMB;Zambia;1;5;;105;;105;
+2006;Flood;DZA;Algeria;1;1;;60000;;60000;1200
+2006;Flood;AGO;Angola;1;;;;225;225;
+2006;Flood;BFA;Burkina Faso;2;;;15610;10000;25610;
+2006;Flood;BDI;Burundi;6;22;;7000;7805;14805;
+2006;Flood;TCD;Chad;1;52;;;;;
+2006;Flood;COD;Congo (the Democratic Republic of the);3;1;;9370;3600;12970;
+2006;Flood;COG;Congo (the);1;6;;;5000;5000;
+2006;Flood;ETH;Ethiopia;7;951;96;434050;;434146;3200
+2006;Flood;GIN;Guinea;1;;;1200;;1200;
+2006;Flood;KEN;Kenya;4;212;;783300;;783300;
+2006;Flood;MWI;Malawi;2;8;;;16000;16000;
+2006;Flood;MLI;Mali;1;1;;;1000;1000;
+2006;Flood;MRT;Mauritania;2;7;19;;10600;10619;
+2006;Flood;MAR;Morocco;3;17;;2100;;2100;
+2006;Flood;NAM;Namibia;2;5;;2300;;2300;8490
+2006;Flood;NER;Niger (the);1;4;;;46472;46472;
+2006;Flood;NGA;Nigeria;3;40;;3000;10000;13000;
+2006;Flood;SOM;Somalia;5;102;;486500;;486500;
+2006;Flood;ZAF;South Africa;2;12;;7160;;7160;216000
+2006;Flood;SDN;Sudan (the);3;27;;161000;6000;167000;
+2006;Flood;TZA;Tanzania, United Republic of;2;;28;;21500;21528;
+2006;Flood;TGO;Togo;1;;;2000;;2000;
+2006;Flood;UGA;Uganda;2;3;;5680;;5680;
+2006;Insect infestation;TZA;Tanzania, United Republic of;1;;;;;;
+2006;Landslide;RWA;Rwanda;1;24;;2000;;2000;
+2006;Storm;BDI;Burundi;1;;5;;1500;1505;
+2006;Storm;COD;Congo (the Democratic Republic of the);1;3;66;75000;;75066;
+2006;Storm;MDG;Madagascar;2;4;;6112;404;6516;
+2006;Storm;SWZ;Swaziland;1;1;;6535;;6535;
+2006;Volcanic activity;COM;Comoros (the);1;;;;;;
+2007;Complex Disasters;BDI;Burundi;1;;;2000000;;2000000;
+2007;Drought;DJI;Djibouti;1;;;42750;;42750;
+2007;Drought;LSO;Lesotho;1;;;475000;;475000;
+2007;Drought;MWI;Malawi;1;;;520000;;520000;
+2007;Drought;MOZ;Mozambique;1;;;520000;;520000;
+2007;Drought;SWZ;Swaziland;1;;;410000;;410000;
+2007;Drought;ZWE;Zimbabwe;1;;;2100000;;2100000;
+2007;Epidemic;AGO;Angola;2;515;;18343;;18343;
+2007;Epidemic;BFA;Burkina Faso;1;1490;;20765;;20765;
+2007;Epidemic;COM;Comoros (the);1;29;;1490;;1490;
+2007;Epidemic;COD;Congo (the Democratic Republic of the);2;172;;419;;419;
+2007;Epidemic;CIV;Côte d’Ivoire;1;30;;150;;150;
+2007;Epidemic;DJI;Djibouti;1;6;;562;;562;
+2007;Epidemic;GAB;Gabon;1;;;17900;;17900;
+2007;Epidemic;GIN;Guinea;1;90;;2410;;2410;
+2007;Epidemic;MOZ;Mozambique;1;78;;7547;;7547;
+2007;Epidemic;NAM;Namibia;1;7;;250;;250;
+2007;Epidemic;NGA;Nigeria;1;200;;;;;
+2007;Epidemic;SEN;Senegal;1;16;;2825;;2825;
+2007;Epidemic;SOM;Somalia;1;1133;;35687;;35687;
+2007;Epidemic;SDN;Sudan (the);3;584;;7639;;7639;
+2007;Epidemic;TZA;Tanzania, United Republic of;2;119;;284;;284;
+2007;Epidemic;UGA;Uganda;2;132;;5937;;5937;
+2007;Epidemic;ZMB;Zambia;1;5;;115;;115;
+2007;Epidemic;ZWE;Zimbabwe;1;67;;10000;;10000;
+2007;Extreme temperature ;ZAF;South Africa;1;22;;;;;
+2007;Flood;DZA;Algeria;6;82;5;1300;;1305;43061
+2007;Flood;AGO;Angola;2;105;;40000;6000;46000;
+2007;Flood;BEN;Benin;1;10;;10000;884;10884;
+2007;Flood;BFA;Burkina Faso;1;52;73;92970;28000;121043;
+2007;Flood;BDI;Burundi;2;5;6;2695;23000;25701;
+2007;Flood;CMR;Cameroon;1;8;17;;10279;10296;
+2007;Flood;CAF;Central African Republic;1;1;;6000;1812;7812;
+2007;Flood;TCD;Chad;2;15;;173000;;173000;
+2007;Flood;COD;Congo (the Democratic Republic of the);1;32;100;1500;;1600;
+2007;Flood;COG;Congo (the);1;;;20000;5000;25000;
+2007;Flood;CIV;Côte d’Ivoire;1;;;2000;;2000;
+2007;Flood;ETH;Ethiopia;2;17;;245386;;245386;
+2007;Flood;GMB;Gambia (the);1;;;300;;300;
+2007;Flood;GHA;Ghana;1;56;;332600;;332600;
+2007;Flood;GIN;Guinea;1;;;20685;;20685;
+2007;Flood;KEN;Kenya;3;19;1;42650;;42651;
+2007;Flood;LBR;Liberia;1;1;;17000;;17000;
+2007;Flood;MDG;Madagascar;1;7;;33000;;33000;
+2007;Flood;MWI;Malawi;4;2;;199306;2659;201965;
+2007;Flood;MLI;Mali;2;18;34;42662;46162;88858;
+2007;Flood;MRT;Mauritania;2;3;;54120;;54120;
+2007;Flood;MOZ;Mozambique;4;54;;398535;3500;402035;171000
+2007;Flood;NAM;Namibia;1;7;;15000;;15000;
+2007;Flood;NER;Niger (the);1;7;10;57264;;57274;
+2007;Flood;NGA;Nigeria;3;91;;55000;;55000;
+2007;Flood;RWA;Rwanda;2;30;;4500;;4500;9
+2007;Flood;SEN;Senegal;1;8;;5300;;5300;
+2007;Flood;SLE;Sierra Leone;1;;;4500;;4500;
+2007;Flood;SOM;Somalia;2;25;12;8000;2000;10012;
+2007;Flood;ZAF;South Africa;1;;;38000;;38000;
+2007;Flood;SDN;Sudan (the);1;150;335;365000;200000;565335;300000
+2007;Flood;TGO;Togo;1;41;77;127880;13374;141331;
+2007;Flood;TUN;Tunisia;2;16;;6500;;6500;
+2007;Flood;UGA;Uganda;2;33;;438070;282975;721045;71
+2007;Flood;ZMB;Zambia;3;14;;1553521;;1553521;
+2007;Flood;ZWE;Zimbabwe;2;27;;17000;;17000;
+2007;Landslide;KEN;Kenya;1;20;6;;;6;
+2007;Storm;TCD;Chad;1;14;145;;;145;
+2007;Storm;LBR;Liberia;1;;;;3500;3500;
+2007;Storm;MDG;Madagascar;3;84;16;210495;12000;222511;240000
+2007;Storm;MUS;Mauritius;1;2;;;;;
+2007;Storm;MOZ;Mozambique;1;10;70;162700;;162770;
+2007;Storm;REU;Réunion;1;2;90;;;90;
+2007;Storm;ZWE;Zimbabwe;1;;;;;;1200
+2007;Volcanic activity;ETH;Ethiopia;1;5;;2000;;2000;
+2007;Wildfire;DZA;Algeria;1;8;;;;;
+2007;Wildfire;ZAF;South Africa;1;26;;;1600;1600;
+2007;Wildfire;SWZ;Swaziland;1;2;;1500;;1500;
+2008;Drought;BDI;Burundi;1;;;82500;;82500;
+2008;Drought;DJI;Djibouti;1;;;340000;;340000;
+2008;Drought;ERI;Eritrea;1;;;1700000;;1700000;
+2008;Drought;ETH;Ethiopia;1;;;6400000;;6400000;
+2008;Drought;KEN;Kenya;1;4;;3800000;;3800000;
+2008;Drought;MDG;Madagascar;1;;;720000;;720000;
+2008;Drought;MOZ;Mozambique;1;;;500000;;500000;
+2008;Drought;SOM;Somalia;1;;;3300000;;3300000;
+2008;Drought;UGA;Uganda;1;;;1100000;;1100000;
+2008;Earthquake;COD;Congo (the Democratic Republic of the);1;11;;17355;;17355;7000
+2008;Earthquake;RWA;Rwanda;1;36;643;;;643;
+2008;Epidemic;AGO;Angola;2;363;;17437;;17437;
+2008;Epidemic;BEN;Benin;3;33;;988;;988;
+2008;Epidemic;BWA;Botswana;1;2;;15;;15;
+2008;Epidemic;BFA;Burkina Faso;2;550;;53000;;53000;
+2008;Epidemic;TCD;Chad;1;22;;1755;;1755;
+2008;Epidemic;COG;Congo (the);2;26;103;527;;630;
+2008;Epidemic;CIV;Côte d’Ivoire;1;44;;;;;
+2008;Epidemic;ETH;Ethiopia;1;20;;3134;;3134;
+2008;Epidemic;GNB;Guinea-Bissau;1;221;;14004;;14004;
+2008;Epidemic;KEN;Kenya;1;43;;;;;
+2008;Epidemic;MDG;Madagascar;1;20;;520;;520;
+2008;Epidemic;MWI;Malawi;1;113;;5269;;5269;
+2008;Epidemic;MOZ;Mozambique;1;155;;19310;;19310;
+2008;Epidemic;NAM;Namibia;1;9;;203;;203;
+2008;Epidemic;NER;Niger (the);2;173;;2805;;2805;
+2008;Epidemic;NGA;Nigeria;3;178;;66;;66;
+2008;Epidemic;SLE;Sierra Leone;1;170;;1746;;1746;
+2008;Epidemic;SOM;Somalia;1;13;;663;;663;
+2008;Epidemic;ZAF;South Africa;1;65;;12752;;12752;
+2008;Epidemic;SDN;Sudan (the);2;15;;212;;212;
+2008;Epidemic;TGO;Togo;1;6;;686;;686;
+2008;Epidemic;UGA;Uganda;1;28;;388;;388;
+2008;Epidemic;ZMB;Zambia;1;173;;8312;;8312;
+2008;Epidemic;ZWE;Zimbabwe;1;4276;;98349;;98349;
+2008;Flood;DZA;Algeria;1;93;50;59000;;59050;348000
+2008;Flood;AGO;Angola;1;7;;81400;;81400;
+2008;Flood;BEN;Benin;1;15;;158235;;158235;
+2008;Flood;BFA;Burkina Faso;2;6;18;560;4292;4870;
+2008;Flood;BDI;Burundi;2;9;5;3270;;3275;
+2008;Flood;CMR;Cameroon;1;9;;24000;1000;25000;
+2008;Flood;CAF;Central African Republic;1;;;;795;795;
+2008;Flood;TCD;Chad;2;;;8000;6450;14450;
+2008;Flood;COD;Congo (the Democratic Republic of the);1;15;2;;500;502;
+2008;Flood;CIV;Côte d’Ivoire;1;6;;450;;450;
+2008;Flood;ETH;Ethiopia;3;45;35;115595;810;116440;
+2008;Flood;GMB;Gambia (the);1;;;;400;400;
+2008;Flood;GHA;Ghana;1;;;58000;;58000;
+2008;Flood;GIN;Guinea;1;;;4200;;4200;
+2008;Flood;GNB;Guinea-Bissau;1;;;;750;750;
+2008;Flood;KEN;Kenya;6;55;;62438;;62438;
+2008;Flood;LBR;Liberia;1;;;;340;340;
+2008;Flood;MWI;Malawi;1;;;16380;;16380;
+2008;Flood;MLI;Mali;1;;;;2500;2500;
+2008;Flood;MAR;Morocco;2;39;;20000;;20000;
+2008;Flood;MOZ;Mozambique;1;25;;3500;;3500;
+2008;Flood;NAM;Namibia;1;42;;65000;;65000;
+2008;Flood;NER;Niger (the);1;7;;32000;;32000;
+2008;Flood;RWA;Rwanda;1;;51;11295;;11346;
+2008;Flood;SEN;Senegal;1;1;;23600;;23600;
+2008;Flood;SOM;Somalia;1;;;52000;;52000;
+2008;Flood;ZAF;South Africa;1;11;;4000;;4000;1264
+2008;Flood;SSD;South Sudan;3;17;;92791;;92791;
+2008;Flood;SWZ;Swaziland;1;;;2500;;2500;
+2008;Flood;TZA;Tanzania, United Republic of;2;73;15;7500;1942;9457;
+2008;Flood;TGO;Togo;1;6;79;44735;;44814;
+2008;Flood;UGA;Uganda;1;49;40;30000;;30040;
+2008;Flood;ZMB;Zambia;1;4;;15000;;15000;
+2008;Landslide;KEN;Kenya;1;10;20;;;20;
+2008;Mass movement (dry);EGY;Egypt;1;98;72;;625;697;
+2008;Storm;COD;Congo (the Democratic Republic of the);1;10;8;;;8;
+2008;Storm;GMB;Gambia (the);1;;;300;;300;
+2008;Storm;LSO;Lesotho;1;;;4500;;4500;
+2008;Storm;MDG;Madagascar;3;105;580;338248;194338;533166;60000
+2008;Storm;MOZ;Mozambique;1;9;13;165000;55000;220013;20000
+2008;Storm;ZAF;South Africa;1;5;76;;3500;3576;
+2008;Storm;TZA;Tanzania, United Republic of;2;;7;670;;677;
+2008;Wildfire;MOZ;Mozambique;1;49;23;;3000;3023;
+2008;Wildfire;ZAF;South Africa;1;34;25;;;25;430000
+2009;Drought;BDI;Burundi;1;;;180000;;180000;
+2009;Drought;TCD;Chad;1;;;2400000;;2400000;
+2009;Drought;ETH;Ethiopia;1;;;6200000;;6200000;
+2009;Drought;NER;Niger (the);1;;;7900000;;7900000;
+2009;Drought;SSD;South Sudan;1;;;4300000;;4300000;
+2009;Earthquake;MWI;Malawi;2;4;186;;20550;20736;
+2009;Epidemic;AGO;Angola;2;116;;25938;;25938;
+2009;Epidemic;BFA;Burkina Faso;1;389;;2892;;2892;
+2009;Epidemic;CPV;Cabo Verde;1;6;;20147;;20147;
+2009;Epidemic;CMR;Cameroon;1;109;1456;;;1456;
+2009;Epidemic;TCD;Chad;1;102;;871;;871;
+2009;Epidemic;COD;Congo (the Democratic Republic of the);4;209;;15909;;15909;
+2009;Epidemic;ETH;Ethiopia;1;135;;13652;;13652;
+2009;Epidemic;KEN;Kenya;3;251;;10446;;10446;
+2009;Epidemic;MDG;Madagascar;1;;;702;;702;
+2009;Epidemic;MWI;Malawi;1;62;;11461;;11461;
+2009;Epidemic;MLI;Mali;1;10;;86;;86;
+2009;Epidemic;MOZ;Mozambique;2;198;;19776;;19776;
+2009;Epidemic;NER;Niger (the);1;169;;4513;;4513;
+2009;Epidemic;NGA;Nigeria;2;1721;;35255;;35255;
+2009;Epidemic;TZA;Tanzania, United Republic of;1;12;;600;;600;
+2009;Epidemic;UGA;Uganda;2;17;;544;;544;
+2009;Epidemic;ZMB;Zambia;1;87;;5198;;5198;
+2009;Epidemic;ZWE;Zimbabwe;2;55;;1346;;1346;
+2009;Flood;DZA;Algeria;2;48;48;;2500;2548;
+2009;Flood;AGO;Angola;3;62;;220000;5065;225065;
+2009;Flood;BEN;Benin;2;10;;119657;;119657;
+2009;Flood;BWA;Botswana;2;;;4656;;4656;
+2009;Flood;BFA;Burkina Faso;2;9;1000;150500;;151500;150000
+2009;Flood;BDI;Burundi;1;;;8000;;8000;
+2009;Flood;CPV;Cabo Verde;1;3;;150;;150;
+2009;Flood;CAF;Central African Republic;1;1;;;11000;11000;
+2009;Flood;TCD;Chad;2;6;;7120;5795;12915;
+2009;Flood;COM;Comoros (the);1;2;;2500;;2500;
+2009;Flood;COD;Congo (the Democratic Republic of the);1;;;5000;;5000;
+2009;Flood;GMB;Gambia (the);1;5;;14258;;14258;
+2009;Flood;GHA;Ghana;2;40;;159545;;159545;
+2009;Flood;GIN;Guinea;1;2;;40000;;40000;
+2009;Flood;KEN;Kenya;2;56;;136200;;136200;
+2009;Flood;LBR;Liberia;1;2;;584;;584;
+2009;Flood;MLI;Mali;1;25;16;20390;;20406;
+2009;Flood;MRT;Mauritania;1;1;;10000;;10000;
+2009;Flood;MAR;Morocco;2;29;20;9500;;9520;
+2009;Flood;MOZ;Mozambique;1;;;6925;;6925;
+2009;Flood;NAM;Namibia;1;92;;350000;;350000;
+2009;Flood;NER;Niger (the);1;3;;79129;;79129;
+2009;Flood;NGA;Nigeria;2;31;;150000;;150000;
+2009;Flood;SEN;Senegal;1;6;;264000;;264000;
+2009;Flood;SLE;Sierra Leone;1;103;15;1455;;1470;
+2009;Flood;SOM;Somalia;1;;;1750;;1750;
+2009;Flood;ZAF;South Africa;2;14;;20300;;20300;
+2009;Flood;SDN;Sudan (the);1;20;;111455;;111455;
+2009;Flood;TZA;Tanzania, United Republic of;2;38;;50000;;50000;
+2009;Flood;TGO;Togo;1;;;;;;
+2009;Flood;TUN;Tunisia;1;17;8;;;8;
+2009;Flood;ZMB;Zambia;1;31;;614814;;614814;
+2009;Insect infestation;LBR;Liberia;1;;;500000;;500000;
+2009;Landslide;CIV;Côte d’Ivoire;1;27;6;;10000;10006;
+2009;Storm;BEN;Benin;1;;;800;;800;
+2009;Storm;BWA;Botswana;1;;;400;;400;
+2009;Storm;CAF;Central African Republic;2;3;;9137;3835;12972;
+2009;Storm;GAB;Gabon;1;;;;800;800;
+2009;Storm;GMB;Gambia (the);1;;;2350;;2350;
+2009;Storm;MDG;Madagascar;3;27;10;122687;8102;130799;5000
+2009;Storm;MOZ;Mozambique;1;;3;600;6500;7103;3000
+2009;Storm;ZAF;South Africa;2;19;;;;;15000
+2009;Storm;TZA;Tanzania, United Republic of;1;;;605;;605;
+2009;Wildfire;COD;Congo (the Democratic Republic of the);1;;;;125;125;
+2010;Drought;DJI;Djibouti;1;;;200258;;200258;
+2010;Drought;MLI;Mali;1;;;600000;;600000;
+2010;Drought;MRT;Mauritania;1;;;838000;;838000;
+2010;Drought;MOZ;Mozambique;1;;;460000;;460000;
+2010;Drought;SOM;Somalia;1;20000;;4000000;;4000000;
+2010;Drought;ZWE;Zimbabwe;1;;;1667618;;1667618;
+2010;Epidemic;BEN;Benin;3;25;;1037;;1037;
+2010;Epidemic;BFA;Burkina Faso;1;841;;5960;;5960;
+2010;Epidemic;CMR;Cameroon;1;515;;7869;;7869;
+2010;Epidemic;TCD;Chad;3;239;;5319;;5319;
+2010;Epidemic;COD;Congo (the Democratic Republic of the);2;56;;4342;;4342;
+2010;Epidemic;COG;Congo (the);1;219;;524;;524;
+2010;Epidemic;ETH;Ethiopia;1;16;;967;;967;
+2010;Epidemic;GAB;Gabon;2;;;551;;551;
+2010;Epidemic;GHA;Ghana;1;27;;100;;100;
+2010;Epidemic;KEN;Kenya;2;57;;3880;;3880;
+2010;Epidemic;MOZ;Mozambique;1;44;;3188;;3188;
+2010;Epidemic;NER;Niger (the);2;103;;1217;;1217;
+2010;Epidemic;NGA;Nigeria;2;1872;;43287;;43287;
+2010;Epidemic;TGO;Togo;1;60;;236;;236;
+2010;Epidemic;UGA;Uganda;1;48;;190;;190;
+2010;Epidemic;ZWE;Zimbabwe;2;8;;258;;258;
+2010;Flood;AGO;Angola;3;25;31;110875;78875;189781;
+2010;Flood;BEN;Benin;1;46;1000;680000;150000;831000;
+2010;Flood;BFA;Burkina Faso;1;16;;133362;;133362;176
+2010;Flood;BDI;Burundi;2;;;1990;;1990;
+2010;Flood;CMR;Cameroon;1;13;95;;3000;3095;
+2010;Flood;CAF;Central African Republic;1;3;;1585;;1585;
+2010;Flood;TCD;Chad;1;24;;144579;;144579;
+2010;Flood;COD;Congo (the Democratic Republic of the);2;;;68700;1800;70500;
+2010;Flood;CIV;Côte d’Ivoire;2;18;;6425;;6425;
+2010;Flood;EGY;Egypt;2;27;;3500;;3500;
+2010;Flood;ETH;Ethiopia;2;19;;80700;;80700;
+2010;Flood;GMB;Gambia (the);2;9;;38961;;38961;
+2010;Flood;GHA;Ghana;2;63;;17174;;17174;
+2010;Flood;GIN;Guinea;2;8;6;48020;;48026;
+2010;Flood;GNB;Guinea-Bissau;1;2;;56792;;56792;
+2010;Flood;KEN;Kenya;2;194;;211164;;211164;
+2010;Flood;LBR;Liberia;1;1;;15486;;15486;
+2010;Flood;MWI;Malawi;1;;;21290;;21290;
+2010;Flood;MLI;Mali;2;;;32000;;32000;
+2010;Flood;MRT;Mauritania;1;;;8750;;8750;
+2010;Flood;MAR;Morocco;2;42;9;77000;;77009;29000
+2010;Flood;MOZ;Mozambique;1;5;;17000;;17000;
+2010;Flood;NAM;Namibia;1;8;;110000;;110000;
+2010;Flood;NER;Niger (the);2;5;;226611;6615;233226;
+2010;Flood;NGA;Nigeria;1;40;200;1500000;;1500200;30000
+2010;Flood;SEN;Senegal;2;2;63;102453;;102516;
+2010;Flood;SLE;Sierra Leone;1;;;234;;234;
+2010;Flood;SOM;Somalia;2;11;;16000;200;16200;
+2010;Flood;SSD;South Sudan;2;;;290000;;290000;
+2010;Flood;SDN;Sudan (the);2;36;12;16350;10000;26362;
+2010;Flood;TGO;Togo;2;22;;111550;;111550;
+2010;Flood;ZMB;Zambia;1;;;1200;;1200;
+2010;Flood;ZWE;Zimbabwe;1;;;820;;820;
+2010;Insect infestation;MDG;Madagascar;1;;;2300000;;2300000;
+2010;Landslide;COD;Congo (the Democratic Republic of the);1;46;7;;1160;1167;
+2010;Landslide;KEN;Kenya;1;10;;;;;
+2010;Landslide;RWA;Rwanda;2;21;17;;5920;5937;
+2010;Landslide;SLE;Sierra Leone;1;16;5;;;5;
+2010;Landslide;UGA;Uganda;1;388;10;12785;;12795;
+2010;Landslide;ZMB;Zambia;1;9;;;150;150;
+2010;Storm;BDI;Burundi;1;9;;;1500;1500;
+2010;Storm;EGY;Egypt;1;31;40;;;40;
+2010;Storm;GAB;Gabon;2;;;3530;;3530;
+2010;Storm;MDG;Madagascar;1;120;132;192000;;192132;
+2010;Storm;ZAF;South Africa;1;40;;6000;;6000;
+2010;Wildfire;COD;Congo (the Democratic Republic of the);1;8;;;2770;2770;
+2011;Drought;BFA;Burkina Faso;1;;;2850000;;2850000;
+2011;Drought;BDI;Burundi;1;;;;;;
+2011;Drought;ETH;Ethiopia;1;;;4805679;;4805679;
+2011;Drought;KEN;Kenya;2;;;8050000;;8050000;
+2011;Drought;LSO;Lesotho;1;;;725515;;725515;
+2011;Drought;MLI;Mali;1;;;3500000;;3500000;
+2011;Drought;MRT;Mauritania;1;;;723000;;723000;
+2011;Drought;NER;Niger (the);1;;;3000000;;3000000;
+2011;Drought;SEN;Senegal;1;;;850000;;850000;
+2011;Drought;TZA;Tanzania, United Republic of;1;;;1000000;;1000000;
+2011;Drought;UGA;Uganda;1;;;669000;;669000;
+2011;Epidemic;BDI;Burundi;1;12;;600;;600;
+2011;Epidemic;CMR;Cameroon;1;639;;16706;;16706;
+2011;Epidemic;CAF;Central African Republic;1;16;;172;;172;
+2011;Epidemic;TCD;Chad;2;557;;18123;;18123;
+2011;Epidemic;COD;Congo (the Democratic Republic of the);2;636;;28757;;28757;
+2011;Epidemic;COG;Congo (the);3;65;;10819;;10819;
+2011;Epidemic;GHA;Ghana;1;101;;10002;;10002;
+2011;Epidemic;MLI;Mali;1;49;;1190;;1190;
+2011;Epidemic;MOZ;Mozambique;1;13;;325;;325;
+2011;Epidemic;NER;Niger (the);1;48;;2130;;2130;
+2011;Epidemic;NGA;Nigeria;1;694;;21382;;21382;
+2011;Epidemic;ZWE;Zimbabwe;1;45;;1140;;1140;
+2011;Flood;DZA;Algeria;1;10;43;750;;793;779000
+2011;Flood;AGO;Angola;4;130;;90584;100;90684;
+2011;Flood;BEN;Benin;1;;;5840;;5840;
+2011;Flood;BWA;Botswana;1;;;;;;
+2011;Flood;BDI;Burundi;1;;;685;;685;
+2011;Flood;CAF;Central African Republic;1;;;2935;;2935;
+2011;Flood;COD;Congo (the Democratic Republic of the);2;;;6000;2000;8000;
+2011;Flood;ETH;Ethiopia;1;;;40200;;40200;
+2011;Flood;GHA;Ghana;2;20;12;94032;;94044;
+2011;Flood;GIN;Guinea;1;;;16143;4000;20143;
+2011;Flood;KEN;Kenya;3;33;;95692;5000;100692;
+2011;Flood;LSO;Lesotho;2;26;;5000;;5000;
+2011;Flood;MWI;Malawi;3;4;1;83586;;83587;
+2011;Flood;MLI;Mali;1;1;;15415;;15415;
+2011;Flood;MOZ;Mozambique;2;11;;63946;;63946;
+2011;Flood;NAM;Namibia;1;108;;500000;;500000;12000
+2011;Flood;NER;Niger (the);2;16;;13000;28175;41175;
+2011;Flood;NGA;Nigeria;4;174;150;30265;500;30915;4500
+2011;Flood;RWA;Rwanda;1;14;20;3588;;3608;
+2011;Flood;SEN;Senegal;1;;6;5214;;5220;
+2011;Flood;SLE;Sierra Leone;1;21;;;;;
+2011;Flood;SOM;Somalia;1;;;2800;;2800;
+2011;Flood;ZAF;South Africa;1;40;321;200000;;200321;211000
+2011;Flood;TZA;Tanzania, United Republic of;3;37;200;59000;6776;65976;
+2011;Flood;UGA;Uganda;1;27;;63075;;63075;
+2011;Flood;ZMB;Zambia;1;;;1375;;1375;
+2011;Flood;ZWE;Zimbabwe;1;;;;;;
+2011;Storm;BDI;Burundi;1;12;50;;;50;
+2011;Storm;CAF;Central African Republic;1;1;1;1830;;1831;
+2011;Storm;MDG;Madagascar;1;35;73;89297;25845;115215;
+2011;Storm;MOZ;Mozambique;1;12;;;;;
+2011;Storm;NGA;Nigeria;1;11;12;;;12;
+2011;Storm;ZAF;South Africa;2;6;217;2606;3500;6323;10000
+2011;Storm;SDN;Sudan (the);1;20;30;;;30;
+2011;Storm;UGA;Uganda;1;23;47;;;47;
+2012;Complex Disasters;CAF;Central African Republic;1;;;45000;;45000;
+2012;Drought;AGO;Angola;1;;;1833900;;1833900;
+2012;Drought;CMR;Cameroon;1;;;12000;;12000;
+2012;Drought;TCD;Chad;1;;;1600000;;1600000;
+2012;Drought;ETH;Ethiopia;1;;;1000000;;1000000;
+2012;Drought;GMB;Gambia (the);1;;;428000;;428000;
+2012;Drought;MWI;Malawi;1;;;1900000;;1900000;
+2012;Drought;SOM;Somalia;1;;;3000000;;3000000;
+2012;Drought;SDN;Sudan (the);1;;;3200000;;3200000;
+2012;Epidemic;TCD;Chad;1;88;;1708;;1708;
+2012;Epidemic;COD;Congo (the Democratic Republic of the);4;608;33;23593;;23626;
+2012;Epidemic;COG;Congo (the);1;5;;57;;57;
+2012;Epidemic;GHA;Ghana;2;76;;5441;;5441;
+2012;Epidemic;GIN;Guinea;1;105;;5523;;5523;
+2012;Epidemic;NER;Niger (the);2;97;;4874;;4874;
+2012;Epidemic;NGA;Nigeria;1;10;;29;;29;
+2012;Epidemic;SLE;Sierra Leone;1;300;;23009;;23009;
+2012;Epidemic;SDN;Sudan (the);1;171;;678;;678;
+2012;Epidemic;UGA;Uganda;3;156;116;5864;;5980;
+2012;Epidemic;ZMB;Zambia;1;2;;153;;153;
+2012;Extreme temperature ;MAR;Morocco;1;;;7500;;7500;
+2012;Flood;DZA;Algeria;2;69;101;;;101;
+2012;Flood;BEN;Benin;1;4;;55000;;55000;
+2012;Flood;BFA;Burkina Faso;1;18;;;21000;21000;
+2012;Flood;CMR;Cameroon;2;25;;20000;31980;51980;2000
+2012;Flood;TCD;Chad;2;20;;613631;;613631;10000
+2012;Flood;COM;Comoros (the);1;4;150;64987;;65137;5000
+2012;Flood;COD;Congo (the Democratic Republic of the);1;1;;3525;1010;4535;
+2012;Flood;COG;Congo (the);2;19;89;2025;7500;9614;
+2012;Flood;GAB;Gabon;1;1;;77845;;77845;
+2012;Flood;KEN;Kenya;1;73;;280670;;280670;100000
+2012;Flood;MWI;Malawi;2;4;;90735;;90735;
+2012;Flood;NAM;Namibia;1;;;650;;650;
+2012;Flood;NER;Niger (the);1;91;;530952;;530952;184115
+2012;Flood;NGA;Nigeria;1;363;867;7000000;;7000867;500000
+2012;Flood;RWA;Rwanda;1;5;;11160;;11160;
+2012;Flood;SEN;Senegal;1;19;;57000;;57000;10000
+2012;Flood;SOM;Somalia;2;31;;12200;20000;32200;
+2012;Flood;ZAF;South Africa;1;13;;125000;;125000;200000
+2012;Flood;SSD;South Sudan;2;47;;157000;;157000;
+2012;Flood;SDN;Sudan (the);1;35;135;135000;;135135;
+2012;Flood;TZA;Tanzania, United Republic of;1;10;;;;;
+2012;Flood;UGA;Uganda;1;;;15000;;15000;
+2012;Landslide;UGA;Uganda;1;18;64;;3368;3432;
+2012;Storm;CAF;Central African Republic;2;;23;;3870;3893;
+2012;Storm;MDG;Madagascar;3;112;299;335300;;335599;100000
+2012;Storm;MWI;Malawi;1;;;6000;;6000;
+2012;Storm;MOZ;Mozambique;3;33;13;109945;;109958;
+2012;Storm;NGA;Nigeria;1;15;;15000;;15000;1000
+2012;Storm;ZAF;South Africa;1;;;1350;;1350;
+2013;Drought;NAM;Namibia;1;;;780000;;780000;64000
+2013;Drought;ZWE;Zimbabwe;1;;;4300000;;4300000;500000
+2013;Epidemic;BEN;Benin;1;6;;486;;486;
+2013;Epidemic;CAF;Central African Republic;1;;63;;;63;
+2013;Epidemic;COG;Congo (the);1;16;;1071;;1071;
+2013;Epidemic;ETH;Ethiopia;3;110;;288;;288;
+2013;Epidemic;GHA;Ghana;1;18;250;310;;560;
+2013;Epidemic;GIN;Guinea;1;;;143;;143;
+2013;Epidemic;MDG;Madagascar;1;113;660;;;660;
+2013;Epidemic;MOZ;Mozambique;1;2;;317;;317;
+2013;Epidemic;NAM;Namibia;1;17;518;;;518;
+2013;Epidemic;SSD;South Sudan;1;;;3;;3;
+2013;Epidemic;TGO;Togo;1;7;;168;;168;
+2013;Epidemic;UGA;Uganda;3;28;1018;217479;;218497;
+2013;Flood;AGO;Angola;1;9;;1000;;1000;
+2013;Flood;BEN;Benin;1;;;32735;;32735;
+2013;Flood;BWA;Botswana;1;12;;4210;;4210;
+2013;Flood;BFA;Burkina Faso;1;2;13;11383;;11396;
+2013;Flood;CMR;Cameroon;1;;;805;;805;
+2013;Flood;CAF;Central African Republic;1;;;32993;;32993;
+2013;Flood;ETH;Ethiopia;1;;;51500;;51500;2200
+2013;Flood;GMB;Gambia (the);1;2;;3300;;3300;
+2013;Flood;GHA;Ghana;1;5;;25000;;25000;
+2013;Flood;GIN;Guinea;1;;;11106;;11106;
+2013;Flood;KEN;Kenya;4;128;20;115780;;115800;36000
+2013;Flood;LBY;Libya;1;16;;2000;;2000;
+2013;Flood;MWI;Malawi;1;3;;33000;;33000;
+2013;Flood;MLI;Mali;2;37;;46000;;46000;
+2013;Flood;MRT;Mauritania;1;8;;4225;2305;6530;2000
+2013;Flood;MUS;Mauritius;1;11;82;;;82;2000
+2013;Flood;MOZ;Mozambique;2;136;76;315910;;315986;30000
+2013;Flood;NAM;Namibia;1;;;14500;;14500;
+2013;Flood;NER;Niger (the);2;32;;181029;;181029;64724
+2013;Flood;NGA;Nigeria;1;19;;81506;;81506;
+2013;Flood;SEN;Senegal;1;8;94;163212;;163306;
+2013;Flood;SOM;Somalia;2;7;;105000;;105000;
+2013;Flood;SSD;South Sudan;2;99;;581000;;581000;
+2013;Flood;SDN;Sudan (the);1;76;133;500000;;500133;7000
+2013;Flood;UGA;Uganda;1;13;;25445;;25445;3100
+2013;Flood;ZMB;Zambia;1;;;1800;;1800;
+2013;Flood;ZWE;Zimbabwe;1;125;;9700;;9700;
+2013;Storm;CAF;Central African Republic;1;;34;8710;;8744;
+2013;Storm;MDG;Madagascar;2;51;127;44752;;44879;25000
+2013;Storm;SYC;Seychelles;1;;;3000;;3000;9300
+2013;Storm;SOM;Somalia;1;162;;142380;;142380;2000
+2013;Storm;ZAF;South Africa;1;3;;2870;;2870;
+2013;Wildfire;BEN;Benin;1;1;;;2759;2759;
+2013;Wildfire;SLE;Sierra Leone;1;;;;2257;2257;
+2014;Animal accident;NER;Niger (the);1;12;;5;;5;
+2014;Drought;BFA;Burkina Faso;1;;;4000000;;4000000;
+2014;Drought;KEN;Kenya;1;;;1600000;;1600000;
+2014;Drought;MDG;Madagascar;1;;;20000;;20000;
+2014;Drought;SEN;Senegal;1;;;639702;;639702;
+2014;Drought;SOM;Somalia;1;;;535624;;535624;
+2014;Earthquake;DZA;Algeria;1;6;420;;;420;
+2014;Earthquake;COM;Comoros (the);1;;;10000;;10000;
+2014;Earthquake;ZAF;South Africa;1;1;2;2000;;2002;
+2014;Epidemic;CMR;Cameroon;2;111;;2056;;2056;
+2014;Epidemic;COD;Congo (the Democratic Republic of the);1;49;17;;;17;
+2014;Epidemic;GMB;Gambia (the);1;;;;;;
+2014;Epidemic;GHA;Ghana;1;249;29611;26858;;56469;
+2014;Epidemic;GIN;Guinea;1;2544;3814;;;3814;
+2014;Epidemic;KEN;Kenya;1;72;3459;;;3459;
+2014;Epidemic;LBR;Liberia;1;4810;10682;;;10682;
+2014;Epidemic;MLI;Mali;1;6;7;;;7;
+2014;Epidemic;MOZ;Mozambique;1;43;5118;;;5118;
+2014;Epidemic;NER;Niger (the);2;153;1639;;;1639;
+2014;Epidemic;NGA;Nigeria;2;763;21;35996;;36017;
+2014;Epidemic;SEN;Senegal;1;;1;;;1;
+2014;Epidemic;SLE;Sierra Leone;1;3956;14124;;;14124;
+2014;Epidemic;SSD;South Sudan;2;149;586;5900;;6486;
+2014;Flood;BDI;Burundi;1;96;182;;12500;12682;2000
+2014;Flood;CMR;Cameroon;1;;;250000;;250000;
+2014;Flood;COD;Congo (the Democratic Republic of the);1;154;1000;;3750;4750;15000
+2014;Flood;CIV;Côte d’Ivoire;2;46;;;;;
+2014;Flood;MAR;Morocco;1;11;;;;;
+2014;Flood;MOZ;Mozambique;1;5;;300;;300;
+2014;Flood;NER;Niger (the);1;36;;165578;;165578;2000
+2014;Flood;NGA;Nigeria;1;15;;10000;;10000;
+2014;Flood;SYC;Seychelles;1;;;4435;;4435;
+2014;Flood;SOM;Somalia;1;;;90000;;90000;
+2014;Flood;ZAF;South Africa;1;32;;7185;;7185;85000
+2014;Flood;SDN;Sudan (the);1;39;204;266000;;266204;
+2014;Flood;SWZ;Swaziland;1;11;;400;;400;
+2014;Flood;TZA;Tanzania, United Republic of;2;31;;40000;;40000;2000
+2014;Flood;ZMB;Zambia;1;;;;20000;20000;
+2014;Flood;ZWE;Zimbabwe;2;14;2;2500;;2502;20000
+2014;Landslide;COD;Congo (the Democratic Republic of the);1;11;;;;;
+2014;Storm;COM;Comoros (the);1;;;9511;;9511;
+2014;Storm;LSO;Lesotho;1;;;;2600;2600;
+2014;Storm;MDG;Madagascar;1;17;;;1736;1736;
+2014;Storm;MAR;Morocco;2;49;;117000;;117000;300000
+2014;Storm;REU;Réunion;1;1;15;250;;265;85000
+2014;Volcanic activity;CPV;Cabo Verde;1;;;2500;;2500;
+2015;Drought;BWA;Botswana;1;;;;;;44000
+2015;Drought;ETH;Ethiopia;1;;;10200000;;10200000;1400000
+2015;Drought;GMB;Gambia (the);1;;;63100;;63100;
+2015;Drought;MWI;Malawi;1;;;6700000;;6700000;
+2015;Drought;NAM;Namibia;1;;;580000;;580000;60000
+2015;Drought;NER;Niger (the);1;;;2588128;;2588128;
+2015;Drought;SOM;Somalia;1;;;4700000;;4700000;
+2015;Drought;ZAF;South Africa;1;;;2700000;;2700000;250000
+2015;Drought;SDN;Sudan (the);1;;;800000;;800000;
+2015;Earthquake;COD;Congo (the Democratic Republic of the);1;3;30;260;100;390;
+2015;Epidemic;AGO;Angola;1;384;4599;;;4599;
+2015;Epidemic;CMR;Cameroon;1;;858;;;858;
+2015;Epidemic;GHA;Ghana;1;85;465;;;465;
+2015;Epidemic;MWI;Malawi;1;11;693;;;693;
+2015;Epidemic;NER;Niger (the);1;6;3370;;;3370;
+2015;Epidemic;NGA;Nigeria;1;97;;2108;;2108;
+2015;Epidemic;SSD;South Sudan;1;47;;1818;;1818;
+2015;Epidemic;TZA;Tanzania, United Republic of;2;582;37712;;;37712;
+2015;Epidemic;TGO;Togo;1;24;324;;;324;
+2015;Epidemic;ZWE;Zimbabwe;1;;11;;;11;
+2015;Extreme temperature ;EGY;Egypt;1;110;66;;;66;
+2015;Extreme temperature ;SDN;Sudan (the);1;16;;;;;
+2015;Flood;DZA;Algeria;2;12;;35000;;35000;
+2015;Flood;AGO;Angola;3;75;;3000;2000;5000;
+2015;Flood;BFA;Burkina Faso;1;8;54;28871;;28925;31000
+2015;Flood;BDI;Burundi;1;52;;4179;;4179;13000
+2015;Flood;CMR;Cameroon;1;4;;30000;;30000;
+2015;Flood;COD;Congo (the Democratic Republic of the);3;49;;190560;;190560;
+2015;Flood;CIV;Côte d’Ivoire;1;16;;;;;
+2015;Flood;ETH;Ethiopia;1;;;210600;;210600;
+2015;Flood;GHA;Ghana;1;25;;;5000;5000;12000
+2015;Flood;GIN;Guinea;1;9;29;29599;;29628;
+2015;Flood;KEN;Kenya;3;138;73;245226;;245299;
+2015;Flood;MDG;Madagascar;1;26;;;24000;24000;
+2015;Flood;MWI;Malawi;1;278;645;638000;;638645;390000
+2015;Flood;MLI;Mali;1;5;;2000;;2000;
+2015;Flood;MOZ;Mozambique;1;160;;177645;;177645;
+2015;Flood;NER;Niger (the);1;27;;87037;;87037;
+2015;Flood;NGA;Nigeria;1;53;;100420;;100420;25000
+2015;Flood;RWA;Rwanda;1;2;6;3425;;3431;
+2015;Flood;SLE;Sierra Leone;1;10;;24303;;24303;
+2015;Flood;SOM;Somalia;2;;;916296;;916296;
+2015;Flood;SDN;Sudan (the);1;20;;;;;
+2015;Flood;TZA;Tanzania, United Republic of;1;12;;;5000;5000;
+2015;Landslide;BDI;Burundi;1;11;;;2870;2870;
+2015;Landslide;GIN;Guinea;1;7;12;480;;492;
+2015;Storm;CPV;Cabo Verde;1;9;;;;;1100
+2015;Storm;CAF;Central African Republic;1;1;7;1109;;1116;
+2015;Storm;EGY;Egypt;2;31;35;100;;135;100000
+2015;Storm;MDG;Madagascar;2;95;37;;182400;182437;46000
+2015;Storm;MWI;Malawi;1;5;;;350;350;
+2015;Storm;SOM;Somalia;2;;;4000;;4000;
+2015;Storm;TZA;Tanzania, United Republic of;1;47;112;5000;;5112;
+2015;Storm;ZWE;Zimbabwe;1;10;;;475;475;
+2015;Wildfire;COD;Congo (the Democratic Republic of the);1;3;;57003;;57003;
+2016;Drought;KEN;Kenya;1;;;3000000;;3000000;
+2016;Drought;LSO;Lesotho;1;;;979000;;979000;
+2016;Drought;MDG;Madagascar;1;;;1140000;;1140000;
+2016;Drought;MOZ;Mozambique;1;;;2300000;;2300000;
+2016;Drought;SSD;South Sudan;1;;;3600000;;3600000;
+2016;Drought;SWZ;Swaziland;1;;;492000;;492000;
+2016;Earthquake;TZA;Tanzania, United Republic of;1;17;440;139161;;139601;458000
+2016;Earthquake;UGA;Uganda;1;4;;;590;590;
+2016;Epidemic;BEN;Benin;1;9;281;;;281;
+2016;Epidemic;BDI;Burundi;1;1;193;;;193;
+2016;Epidemic;CAF;Central African Republic;1;21;266;;;266;
+2016;Epidemic;COD;Congo (the Democratic Republic of the);2;55;2638;;;2638;
+2016;Epidemic;GHA;Ghana;1;;172;;;172;
+2016;Epidemic;NER;Niger (the);1;23;78;;;78;
+2016;Epidemic;NGA;Nigeria;2;1287;15432;;;15432;
+2016;Epidemic;SYC;Seychelles;1;;253;;;253;
+2016;Epidemic;SOM;Somalia;1;497;14165;;;14165;
+2016;Epidemic;SSD;South Sudan;2;83;3826;;;3826;
+2016;Epidemic;SDN;Sudan (the);1;19;632;;;632;
+2016;Extreme temperature ;MAR;Morocco;1;;;750000;;750000;
+2016;Extreme temperature ;ZAF;South Africa;1;11;20;;;20;
+2016;Flood;AGO;Angola;4;113;;4744;5155;9899;
+2016;Flood;BFA;Burkina Faso;1;15;35;27826;7032;34893;
+2016;Flood;COD;Congo (the Democratic Republic of the);2;50;7;2628;10000;12635;
+2016;Flood;CIV;Côte d’Ivoire;1;20;;;;;
+2016;Flood;ETH;Ethiopia;2;128;80;492000;1000;493080;
+2016;Flood;GHA;Ghana;1;10;;;;;
+2016;Flood;KEN;Kenya;2;42;;10000;1000;11000;
+2016;Flood;LBR;Liberia;1;;;15431;;15431;
+2016;Flood;MWI;Malawi;1;12;;;2800;2800;
+2016;Flood;MLI;Mali;1;13;;9500;;9500;
+2016;Flood;MOZ;Mozambique;2;63;;171600;;171600;
+2016;Flood;NER;Niger (the);2;61;27;123239;3000;126266;
+2016;Flood;NGA;Nigeria;1;18;;;12000;12000;
+2016;Flood;RWA;Rwanda;1;67;;;;;
+2016;Flood;SEN;Senegal;1;5;106;10540;;10646;
+2016;Flood;SOM;Somalia;1;9;;;;;
+2016;Flood;ZAF;South Africa;2;13;;7500;;7500;280000
+2016;Flood;SSD;South Sudan;1;;;22000;;22000;
+2016;Flood;SDN;Sudan (the);1;171;4;90000;110000;200004;
+2016;Flood;TZA;Tanzania, United Republic of;3;16;;126342;13933;140275;
+2016;Flood;UGA;Uganda;1;;;10000;;10000;2700
+2016;Landslide;RWA;Rwanda;1;54;;;4000;4000;
+2016;Landslide;UGA;Uganda;1;15;;;1000;1000;
+2016;Storm;EGY;Egypt;1;26;72;32500;;32572;25000
+2016;Storm;MOZ;Mozambique;1;12;200;;1500;1700;1500
+2016;Storm;NGA;Nigeria;1;28;;1000;;1000;
+2016;Storm;ZWE;Zimbabwe;1;31;;2000;;2000;
+2017;Drought;AGO;Angola;1;;;1420000;;1420000;
+2017;Drought;TCD;Chad;1;;;1886800;;1886800;
+2017;Drought;MRT;Mauritania;1;;;3893774;;3893774;
+2017;Drought;NER;Niger (the);1;;;1131300;;1131300;
+2017;Epidemic;BFA;Burkina Faso;1;18;9029;;;9029;
+2017;Epidemic;TCD;Chad;1;58;652;;;652;
+2017;Epidemic;COD;Congo (the Democratic Republic of the);1;43;1022;;;1022;
+2017;Epidemic;CIV;Côte d’Ivoire;1;2;621;;;621;
+2017;Epidemic;GIN;Guinea;1;;122;;;122;
+2017;Epidemic;KEN;Kenya;3;76;4421;;;4421;
+2017;Epidemic;MDG;Madagascar;1;207;2384;;;2384;
+2017;Epidemic;MWI;Malawi;1;6;;450;;450;
+2017;Epidemic;MOZ;Mozambique;1;1;1799;;;1799;
+2017;Epidemic;NER;Niger (the);2;118;2390;;;2390;
+2017;Epidemic;NGA;Nigeria;2;11;1704;;;1704;
+2017;Epidemic;SOM;Somalia;1;302;13126;;;13126;
+2017;Epidemic;SDN;Sudan (the);1;657;30762;;;30762;
+2017;Epidemic;UGA;Uganda;1;3;;;;;
+2017;Epidemic;ZMB;Zambia;1;89;4371;;;4371;
+2017;Extreme temperature ;DZA;Algeria;1;;;125000;;125000;
+2017;Extreme temperature ;MAR;Morocco;2;;;1650000;;1650000;
+2017;Flood;AGO;Angola;1;11;;26500;3750;30250;2000
+2017;Flood;BWA;Botswana;1;;;3250;;3250;
+2017;Flood;BFA;Burkina Faso;1;2;;882;;882;
+2017;Flood;CMR;Cameroon;1;3;;12890;;12890;
+2017;Flood;CAF;Central African Republic;1;;;3500;;3500;
+2017;Flood;COD;Congo (the Democratic Republic of the);1;105;;;500;500;
+2017;Flood;CIV;Côte d’Ivoire;1;15;25;200;;225;
+2017;Flood;GHA;Ghana;1;;;1000000;;1000000;
+2017;Flood;GIN;Guinea;1;;13;3274;;3287;
+2017;Flood;KEN;Kenya;1;26;;25000;;25000;
+2017;Flood;MWI;Malawi;1;;;55921;;55921;
+2017;Flood;NAM;Namibia;1;;;2502;;2502;
+2017;Flood;NER;Niger (the);2;72;;209513;;209513;10000
+2017;Flood;NGA;Nigeria;2;20;;10000;500;10500;
+2017;Flood;ZAF;South Africa;1;3;;200;;200;
+2017;Flood;SDN;Sudan (the);1;25;112;29935;25600;55647;
+2017;Flood;TZA;Tanzania, United Republic of;1;7;;;;;
+2017;Flood;TGO;Togo;1;;;3612;;3612;
+2017;Flood;UGA;Uganda;1;17;14;;;14;
+2017;Landslide;BDI;Burundi;1;6;;;810;810;
+2017;Landslide;COD;Congo (the Democratic Republic of the);1;174;10;;;10;
+2017;Landslide;SLE;Sierra Leone;1;1102;100;11816;;11916;30000
+2017;Storm;CAF;Central African Republic;1;;;3690;;3690;
+2017;Storm;GHA;Ghana;1;20;12;;;12;
+2017;Storm;MDG;Madagascar;1;81;253;434000;;434253;20000
+2017;Storm;MRT;Mauritania;1;18;40;2000;;2040;
+2017;Storm;MOZ;Mozambique;1;7;102;750000;;750102;17000
+2017;Storm;RWA;Rwanda;2;3;28;6525;;6553;
+2017;Storm;ZAF;South Africa;2;20;18;6918;500;7436;603000
+2017;Storm;ZWE;Zimbabwe;1;251;128;100000;12895;113023;189000
+2017;Wildfire;ZAF;South Africa;1;9;;;5500;5500;420000
+2017;Wildfire;TUN;Tunisia;1;;;2000;;2000;
+2018;Epidemic;COD;Congo (the Democratic Republic of the);2;137;169;;;169;
+2018;Epidemic;NER;Niger (the);1;68;3692;;;3692;
+2018;Epidemic;NGA;Nigeria;1;90;1081;;;1081;
+2018;Epidemic;UGA;Uganda;1;31;;1000;;1000;
+2018;Extreme temperature ;MAR;Morocco;1;;;70000;;70000;
+2018;Flood;AGO;Angola;1;8;;3000;;3000;
+2018;Flood;BWA;Botswana;1;;;4225;;4225;
+2018;Flood;BDI;Burundi;1;;;12000;;12000;
+2018;Flood;COD;Congo (the Democratic Republic of the);1;51;17;;15743;15760;
+2018;Flood;CIV;Côte d’Ivoire;1;20;;25000;;25000;
+2018;Flood;GHA;Ghana;1;35;;;;;
+2018;Flood;KEN;Kenya;3;134;33;211155;;211188;350000
+2018;Flood;MWI;Malawi;2;1;;500;;500;
+2018;Flood;MOZ;Mozambique;1;11;;;77150;77150;5100
+2018;Flood;NER;Niger (the);1;36;;130468;;130468;
+2018;Flood;NGA;Nigeria;2;301;171;15701;;15872;275000
+2018;Flood;RWA;Rwanda;2;134;5;26360;;26365;
+2018;Flood;SDN;Sudan (the);2;46;121;115705;8900;124726;
+2018;Flood;TZA;Tanzania, United Republic of;1;24;;;;;
+2018;Flood;TUN;Tunisia;1;6;;30000;;30000;36000
+2018;Landslide;ETH;Ethiopia;2;44;21;;;21;36
+2018;Landslide;MOZ;Mozambique;1;17;;300;;300;
+2018;Landslide;RWA;Rwanda;1;18;12;;;12;28000
+2018;Storm;DJI;Djibouti;1;2;;25000;;25000;
+2018;Storm;GNB;Guinea-Bissau;1;3;;11541;;11541;
+2018;Storm;MDG;Madagascar;2;94;;211000;;211000;
+2018;Storm;MUS;Mauritius;1;;;30000;;30000;
+2018;Storm;REU;Réunion;1;;;200;;200;
+2018;Storm;SOM;Somalia;1;55;;670000;;670000;
+;;;;;;;;;;
+;;;;;;;;;;
+Created on: October 22, 2018;;;;;;;;;;
+Source: EM-DAT: The Emergency Events Database - Universite catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, Brussels, Belgium;;;;;;;;;;
